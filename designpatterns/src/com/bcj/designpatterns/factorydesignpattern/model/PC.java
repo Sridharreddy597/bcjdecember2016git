@@ -2,6 +2,8 @@ package com.bcj.designpatterns.factorydesignpattern.model;
 
 public class PC extends Computer {
 
+//this is a change
+
 	private String ram;
 	private String hdd;
 	private String cpu;
