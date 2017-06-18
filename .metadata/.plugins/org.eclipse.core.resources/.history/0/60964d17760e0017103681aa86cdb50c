@@ -1,0 +1,48 @@
+
+import java.util.*;
+
+import com.bcj.ArrayList.Student;
+import com.bcj.ArrayList.StudentController;
+
+import java.io.*;  
+public class DemoApplication{  
+public static void main(String args[]){  
+	ArrayList<Customer> al=new ArrayList<Customer>();  
+Scanner sc=new Scanner(System.in);
+for (int i = 0; i < 5; i++) {
+	Customer cust= new Customer();
+	
+	al.add(cust.getCustomerDetails());
+}
+
+	
+
+
+}
+
+
+private Customer getStudentDetails() {
+	// TODO Auto-generated method stub
+	Scanner sc = new Scanner(System.in);
+	Student std = new Student();
+	System.out.println("enter student id");
+	std.setStudentID(sc.nextLine());
+	System.out.println("enter first name of student");
+	std.setFirstName(sc.nextLine());
+	System.out.println("enter last name of student ");
+	std.setLastName(sc.nextLine());
+	System.out.println("enter the email of student");
+	std.setEmail(sc.nextLine());
+	System.out.println("enter the age of student");
+	std.setAge(sc.nextLine());
+	System.out.println("enter only 3test scores of the student in the form of (marks,marks,marks)");
+	std.setGrades(sc.nextLine());
+	return std;
+}
+
+Collections.sort(al);  
+for(Student st:al){  
+System.out.println(st.rollno+" "+st.name+" "+st.age);  
+}  
+}  
+}  

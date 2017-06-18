@@ -1,0 +1,61 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+
+
+
+<script type="text/javascript" language="javascript">
+         $(document).ready(function() {
+            $("#POSTfrm").click(function(event){
+               $('#div1').load('read');
+            });
+         });
+      </script>
+<script>
+	$(document).ready(function() {
+		$("button").click(function() {
+			
+		});
+	});
+</script>
+
+
+</head>
+<body>
+	<form name="emoloyeeForm" method="post">
+		
+		<table>
+
+			<tr>
+				<td></td>
+				<td><input type="button" id="POSTfrm" value="POST"
+					placeholder="POST"></td>
+					<div id="div1"></div>
+
+			</tr>
+			<tr>
+				<td></td>
+				<td><input type="button" id="GET" VALUE="GET" placeholder="GET"></td>
+				<div id="div2"></div>
+
+			</tr>
+			<tr>
+				<td></td>
+				<td><input type="button" id="UPDATE" value="UPDATE"
+					placeholder="UPDATE"></td>
+
+			</tr>
+			<tr>
+				<td></td>
+				<td><input type="button" id="DELETE" value="DELETE"
+					placeholder="delete"></td>
+			</tr>
+		</table>
+</body>
+</html>

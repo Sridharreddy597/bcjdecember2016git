@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;restexamplespringboot/src/main/java/com/bcj/restexample&apos; to &apos;restexamplespringboot&apos;" description="Rename resource &apos;restexample&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/bcj/restexample" name="restexamplespringboot" stamp="1494114581753" updateReferences="true"/>
+</session>

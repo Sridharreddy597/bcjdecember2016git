@@ -1,0 +1,30 @@
+package com.bcj.test;
+
+import java.util.Scanner;
+
+public class StringPattern {
+
+	static String stg[];
+	static String strng[];
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter the string");
+		String str=sc.next();
+		strng[]=str.split(",");
+		for(String i: strng)
+		{
+			stg[]=strng.split(":");
+			System.out.println(stg[0]+"->"+Integer.parseInt(stg[1]));
+		}
+		
+		System.out.println("enter the string to print its respective Integer");
+		String st=sc.next();
+		for(String i: strng){
+			if((st).equals(stg[0]))
+			System.out.println(Integer.parseInt(stg[1]));
+		}		
+		
+	}
+}

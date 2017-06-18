@@ -1,0 +1,32 @@
+package com.bcj.atenainsurance.service;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+import com.bcj.atenainsurance.dao.AtenaDao;
+import com.bcj.atenainsurance.model.Member;
+
+
+
+@WebService(endpointInterface="com.bcj.atenainsurance.service.AtenaService")
+public class AtenaServiceImpl implements AtenaService{
+	
+	
+	AtenaDao aDao= new AtenaDao();
+	
+
+	@WebMethod
+	public Member getMemberbyId(int id) {
+		
+		
+		return aDao.getMember(id);
+	}
+
+	@WebMethod
+	public int createMember(Member mem) {
+		
+		System.out.println(mem);
+		return aDao.createMember(mem);
+	}
+
+}

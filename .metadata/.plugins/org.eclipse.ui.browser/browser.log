@@ -1,0 +1,850 @@
+
+Mar 10, 2017 05:57:38.20 NEW SESSION
+Mar 10, 2017 05:57:38.20 [7376:10344:0310/055738.190:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 10, 2017 08:50:29.76 [7376:10344:0310/085029.767:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+
+Mar 11, 2017 11:42:30.83 NEW SESSION
+Mar 11, 2017 11:42:30.83 [0311/114230.822:ERROR:process_info.cc(608)] range at 0x7b104c9200000000, size 0x238 fully unreadable
+Mar 11, 2017 11:42:30.83 [0311/114230.823:ERROR:process_info.cc(608)] range at 0x7b104cfa00000000, size 0x238 fully unreadable
+Mar 11, 2017 11:42:30.83 [0311/114230.823:ERROR:process_info.cc(608)] range at 0x0, size 0x238 fully unreadable
+
+Mar 16, 2017 17:32:14.72 NEW SESSION
+Mar 16, 2017 17:32:14.72 [7288,7480:22:32:14.720000] Native Client module will be loaded at base address 0x0000072900000000
+Mar 16, 2017 17:32:15.07 [7288,7112:22:32:15.068000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 16, 2017 17:32:15.07 CreateModule.
+Mar 16, 2017 17:32:27.84 received message
+Mar 16, 2017 17:32:48.93 [6904,4700:22:32:48.930000] Native Client module will be loaded at base address 0x000005eb00000000
+Mar 16, 2017 17:32:49.06 [6904,2700:22:32:49.066000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 16, 2017 17:32:49.07 CreateModule.
+Mar 16, 2017 17:33:00.17 received message
+Mar 16, 2017 17:36:09.10 received message
+Mar 16, 2017 17:36:25.13 received message
+Mar 16, 2017 17:38:04.02 received message
+Mar 16, 2017 17:38:44.32 received message
+Mar 16, 2017 17:38:52.19 received message
+Mar 16, 2017 17:40:19.72 [4480:7640:0316/174019.722:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:40:19.86 [4480:7640:0316/174019.862:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:40:20.07 [4480:7640:0316/174020.071:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:40:20.21 [4480:7640:0316/174020.209:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:41:55.50 [4480:7640:0316/174155.509:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:41:55.67 [4480:7640:0316/174155.678:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:41:55.85 [4480:7640:0316/174155.848:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:41:56.00 [4480:7640:0316/174155.990:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:42:17.35 [4480:7640:0316/174217.355:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:42:17.50 [4480:7640:0316/174217.504:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:42:17.72 [4480:7640:0316/174217.725:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:42:17.86 [4480:7640:0316/174217.865:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:44:28.35 [4480:7640:0316/174428.353:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:44:28.49 [4480:7640:0316/174428.495:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:44:28.71 [4480:7640:0316/174428.718:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:44:28.86 [4480:7640:0316/174428.859:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:33.96 [4480:7640:0316/174533.964:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:33.96 [4480:7640:0316/174533.964:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:33.96 [4480:7640:0316/174533.965:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.12 [4480:7640:0316/174534.121:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.12 [4480:7640:0316/174534.122:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.12 [4480:7640:0316/174534.122:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.26 [4480:7640:0316/174534.262:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.26 [4480:7640:0316/174534.268:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.26 [4480:7640:0316/174534.269:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.40 [4480:7640:0316/174534.402:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.41 [4480:7640:0316/174534.409:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:45:34.43 [4480:7640:0316/174534.436:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:46:13.41 [4480:7640:0316/174613.416:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:46:13.57 [4480:7640:0316/174613.573:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:46:13.74 [4480:7640:0316/174613.741:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 17:46:13.94 [4480:7640:0316/174613.946:ERROR:ssl_client_socket_impl.cc(1101)] handshake failed; returned -1, SSL error code 1, net_error -100
+Mar 16, 2017 18:05:36.90 [4480:4684:0316/180536.902:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 16, 2017 20:32:50.98 [4480:4684:0316/203250.983:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+
+Mar 17, 2017 23:22:50.23 NEW SESSION
+Mar 17, 2017 23:22:50.23 [3660,4560:04:22:50.171000] Native Client module will be loaded at base address 0x0000015600000000
+Mar 17, 2017 23:22:50.41 [3660,9228:04:22:50.412000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 17, 2017 23:22:50.41 CreateModule.
+Mar 17, 2017 23:22:56.08 received message
+Mar 17, 2017 23:24:37.37 received message
+Mar 17, 2017 23:25:38.31 received message
+Mar 17, 2017 23:27:43.41 received message
+Mar 17, 2017 23:36:19.99 received message
+Mar 17, 2017 23:39:43.24 received message
+Mar 17, 2017 23:40:34.63 received message
+
+Mar 18, 2017 14:41:02.04 NEW SESSION
+Mar 18, 2017 14:41:02.04 [3464,968:19:41:02.019000] Native Client module will be loaded at base address 0x0000065200000000
+Mar 18, 2017 14:41:02.26 [3464,6052:19:41:02.266000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 18, 2017 14:41:02.27 CreateModule.
+Mar 18, 2017 14:41:11.65 received message
+Mar 18, 2017 14:41:58.49 received message
+Mar 18, 2017 14:46:32.29 received message
+Mar 18, 2017 15:01:01.64 received message
+Mar 18, 2017 15:01:49.86 received message
+Mar 18, 2017 15:03:14.51 received message
+Mar 18, 2017 15:14:54.26 received message
+Mar 18, 2017 16:18:29.30 received message
+Mar 18, 2017 16:20:56.17 received message
+Mar 18, 2017 16:23:47.03 received message
+Mar 18, 2017 16:31:15.52 received message
+Mar 18, 2017 16:41:51.62 [3624:5368:0318/164151.627:ERROR:nacl_process_host.cc(260)] NaCl process exited with status 258 (0x102)
+
+Mar 18, 2017 17:56:01.32 NEW SESSION
+Mar 18, 2017 17:56:01.32 [3332,9580:22:56:01.323000] Native Client module will be loaded at base address 0x0000029500000000
+Mar 18, 2017 17:56:01.51 [3332,2800:22:56:01.509000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 18, 2017 17:56:01.51 CreateModule.
+Mar 18, 2017 17:56:05.70 received message
+Mar 18, 2017 17:56:48.43 received message
+Mar 18, 2017 17:57:37.75 received message
+Mar 18, 2017 18:37:29.46 [760,500:23:37:29.462000] Native Client module will be loaded at base address 0x0000061700000000
+Mar 18, 2017 18:37:29.59 [760,6964:23:37:29.598000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 18, 2017 18:37:29.60 CreateModule.
+Mar 18, 2017 18:37:35.22 received message
+
+Mar 20, 2017 09:34:15.89 NEW SESSION
+Mar 20, 2017 09:34:15.89 [3584,8:14:34:15.854000] Native Client module will be loaded at base address 0x0000002100000000
+Mar 20, 2017 09:34:16.08 [3584,3636:14:34:16.080000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 20, 2017 09:34:16.08 CreateModule.
+Mar 20, 2017 09:34:24.06 received message
+Mar 20, 2017 09:37:36.72 [7288,7828:14:37:36.716000] Native Client module will be loaded at base address 0x000000bd00000000
+Mar 20, 2017 09:37:36.88 [7288,9196:14:37:36.883000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 20, 2017 09:37:36.88 CreateModule.
+Mar 20, 2017 09:37:41.96 received message
+Mar 20, 2017 09:40:59.45 [10512,8244:14:40:59.453000] Native Client module will be loaded at base address 0x000003ed00000000
+Mar 20, 2017 09:40:59.64 [10512,11184:14:40:59.643000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 20, 2017 09:40:59.64 CreateModule.
+Mar 20, 2017 09:41:11.88 received message
+Mar 20, 2017 09:41:19.35 received message
+Mar 20, 2017 09:41:23.85 received message
+
+Mar 20, 2017 19:37:20.22 NEW SESSION
+Mar 20, 2017 19:37:20.28 [9800,9492:00:37:20.197000] Native Client module will be loaded at base address 0x0000012600000000
+Mar 20, 2017 19:37:20.65 [9800,6416:00:37:20.650000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 20, 2017 19:37:20.65 CreateModule.
+Mar 20, 2017 20:09:27.52 [9676,2284:01:09:27.522000] Native Client module will be loaded at base address 0x000003ff00000000
+Mar 20, 2017 20:09:27.66 [9676,904:01:09:27.665000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 20, 2017 20:09:27.66 CreateModule.
+Mar 20, 2017 20:12:26.06 received message
+Mar 20, 2017 20:13:22.80 [4352,10852:01:13:22.801000] Native Client module will be loaded at base address 0x0000050f00000000
+Mar 20, 2017 20:13:22.90 [4352,10616:01:13:22.905000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 20, 2017 20:13:22.90 CreateModule.
+Mar 20, 2017 20:13:37.83 [6280,7420:01:13:37.831000] Native Client module will be loaded at base address 0x000004ad00000000
+Mar 20, 2017 20:13:38.02 [6280,2280:01:13:38.023000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 20, 2017 20:13:38.02 CreateModule.
+Mar 20, 2017 20:14:21.09 received message
+Mar 20, 2017 20:14:34.08 received message
+Mar 20, 2017 20:15:32.89 received message
+Mar 20, 2017 20:15:56.31 received message
+Mar 20, 2017 20:16:29.97 received message
+Mar 20, 2017 20:18:37.40 received message
+Mar 20, 2017 20:20:36.95 received message
+Mar 20, 2017 20:22:32.21 received message
+Mar 20, 2017 20:25:27.83 received message
+Mar 20, 2017 20:28:25.01 received message
+
+Mar 25, 2017 13:41:14.35 NEW SESSION
+Mar 25, 2017 13:41:14.35 [944,4664:18:41:14.338000] Native Client module will be loaded at base address 0x0000016500000000
+Mar 25, 2017 13:41:14.87 [944,4664:18:41:14.624000] NaClPageAlloc: VirtualAlloc(*,0x10000) failed
+Mar 25, 2017 13:41:14.90 [944,2128:18:41:14.903000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 25, 2017 13:41:14.91 CreateModule.
+Mar 25, 2017 15:36:23.76 received message
+Mar 25, 2017 15:37:11.24 received message
+Mar 25, 2017 15:37:24.56 received message
+Mar 25, 2017 15:53:26.93 received message
+Mar 25, 2017 15:55:50.66 received message
+Mar 25, 2017 20:59:14.74 received message
+Mar 25, 2017 20:59:20.03 received message
+Mar 25, 2017 23:17:25.07 [6148:5868:0325/231725.070:ERROR:broker_win.cc(59)] Error reading broker pipe: Error (0x5) while retrieving error. (0x6D)
+
+Mar 30, 2017 11:42:27.21 NEW SESSION
+Mar 30, 2017 11:42:27.22 [732,8904:16:42:27.207000] Native Client module will be loaded at base address 0x0000035300000000
+Mar 30, 2017 11:42:27.25 [3632:4900:0330/114227.257:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:42:27.40 [732,5780:16:42:27.405000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Mar 30, 2017 11:42:27.41 CreateModule.
+Mar 30, 2017 11:42:28.16 [3632:4900:0330/114228.162:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:42:29.07 [3632:4900:0330/114229.071:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:42:30.30 [3632:4900:0330/114230.305:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:42:30.54 [3632:4900:0330/114230.546:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:42:31.20 [3632:4900:0330/114231.204:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:42.60 [3632:4900:0330/115642.608:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:42.77 [3632:4900:0330/115642.772:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:44.90 [3632:4900:0330/115644.909:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:45.08 [3632:4900:0330/115645.080:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:46.77 [3632:4900:0330/115646.769:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:46.94 [3632:4900:0330/115646.939:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:48.70 [3632:4900:0330/115648.701:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:48.86 [3632:4900:0330/115648.865:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:50.77 [3632:4900:0330/115650.777:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:50.95 [3632:4900:0330/115650.953:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:52.79 [3632:4900:0330/115652.798:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:52.97 [3632:4900:0330/115652.973:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:54.67 [3632:4900:0330/115654.675:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:54.85 [3632:4900:0330/115654.859:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:55.78 [3632:4900:0330/115655.783:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:56.09 [3632:4900:0330/115656.097:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 11:56:56.34 [3632:4900:0330/115656.348:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:20.54 [3632:4900:0330/120220.539:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:21.23 [3632:4900:0330/120221.232:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:21.56 [3632:4900:0330/120221.562:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:21.78 [3632:4900:0330/120221.789:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:22.04 [3632:4900:0330/120222.041:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:22.37 [3632:4900:0330/120222.375:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:22.61 [3632:4900:0330/120222.615:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:23.00 [3632:4900:0330/120223.003:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Mar 30, 2017 12:02:23.21 [3632:4900:0330/120223.217:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+
+Apr 08, 2017 09:58:41.70 NEW SESSION
+Apr 08, 2017 09:58:41.70 [6768:4384:0408/095841.679:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 09:58:42.30 [11052,10244:14:58:42.291000] Native Client module will be loaded at base address 0x000001b500000000
+Apr 08, 2017 09:58:42.47 [11052,10504:14:58:42.471000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 09:58:42.47 CreateModule.
+Apr 08, 2017 10:00:52.12 [7468:1952:0408/100052.105:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 10:00:52.96 [10676,10896:15:00:52.963000] Native Client module will be loaded at base address 0x0000054800000000
+Apr 08, 2017 10:00:53.16 [10676,9888:15:00:53.162000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 10:00:53.16 CreateModule.
+Apr 08, 2017 10:02:03.31 [12080:7088:0408/100203.309:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 10:02:04.66 [5256,4688:15:02:04.658000] Native Client module will be loaded at base address 0x0000059700000000
+Apr 08, 2017 10:02:04.90 [5256,9380:15:02:04.899000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 10:02:04.90 CreateModule.
+Apr 08, 2017 18:37:25.33 [11252:212:0408/183725.331:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 18:37:25.78 [4456,6544:23:37:25.787000] Native Client module will be loaded at base address 0x000000a000000000
+Apr 08, 2017 18:37:26.03 [4456,5264:23:37:26.026000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 18:37:26.03 CreateModule.
+Apr 08, 2017 18:59:13.14 [5872:5764:0408/185913.139:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+Apr 08, 2017 19:06:36.42 [3400:7068:0408/190636.408:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 19:06:37.33 [11676,3564:00:06:37.317000] Native Client module will be loaded at base address 0x000001c400000000
+Apr 08, 2017 19:06:37.53 [11676,344:00:06:37.531000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 19:06:37.54 CreateModule.
+Apr 08, 2017 19:07:11.67 [5736:8744:0408/190711.667:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 19:07:12.26 [560,7072:00:07:12.216000] Native Client module will be loaded at base address 0x0000048000000000
+Apr 08, 2017 19:07:12.56 [560,1840:00:07:12.550000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 19:07:12.57 CreateModule.
+
+Apr 08, 2017 19:18:24.49 NEW SESSION
+Apr 08, 2017 19:18:24.49 [7820:6564:0408/191824.463:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 19:18:25.31 [5716,5644:00:18:25.315000] Native Client module will be loaded at base address 0x0000013600000000
+Apr 08, 2017 19:18:25.50 [5716,7204:00:18:25.500000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 19:18:25.50 CreateModule.
+Apr 08, 2017 19:32:09.39 [9028:7464:0408/193209.377:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 19:32:09.91 [4476,2328:00:32:09.914000] Native Client module will be loaded at base address 0x000006de00000000
+Apr 08, 2017 19:32:10.12 [4476,5188:00:32:10.123000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 19:32:10.12 CreateModule.
+Apr 08, 2017 19:33:36.50 [6352:3208:0408/193336.505:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 08, 2017 19:33:37.05 [2956,7160:00:33:37.058000] Native Client module will be loaded at base address 0x0000066f00000000
+Apr 08, 2017 19:33:37.36 [2956,7364:00:33:37.354000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 08, 2017 19:33:37.37 CreateModule.
+Apr 08, 2017 20:00:17.69 [5536:5200:0408/200017.693:ERROR:render_process_host_impl.cc(2059)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+
+Apr 09, 2017 24:20:10.39 NEW SESSION
+Apr 09, 2017 24:20:10.40 [2580:3776:0409/002010.391:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 24:20:11.47 [3664,1804:05:20:11.468000] Native Client module will be loaded at base address 0x0000073200000000
+Apr 09, 2017 24:20:11.73 [3664,5452:05:20:11.727000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 24:20:11.73 CreateModule.
+Apr 09, 2017 24:46:03.05 [1064:8660:0409/004603.039:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 24:46:03.95 [9452,8036:05:46:03.954000] Native Client module will be loaded at base address 0x0000042e00000000
+Apr 09, 2017 24:46:04.16 [9452,8404:05:46:04.166000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 24:46:04.17 CreateModule.
+Apr 09, 2017 24:54:58.42 received message
+Apr 09, 2017 01:05:17.06 received message
+Apr 09, 2017 01:06:09.40 received message
+Apr 09, 2017 01:07:09.01 received message
+Apr 09, 2017 01:07:26.53 received message
+Apr 09, 2017 01:11:09.47 received message
+Apr 09, 2017 01:11:48.84 received message
+Apr 09, 2017 01:13:42.33 received message
+Apr 09, 2017 01:14:30.78 received message
+Apr 09, 2017 01:22:10.75 received message
+
+Apr 09, 2017 09:37:21.27 NEW SESSION
+Apr 09, 2017 09:37:21.27 [7316:76:0409/093721.197:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 09:37:22.11 [5304,8448:14:37:22.112000] Native Client module will be loaded at base address 0x0000031400000000
+Apr 09, 2017 09:37:22.53 [5304,7092:14:37:22.533000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 09:37:22.54 CreateModule.
+Apr 09, 2017 09:37:30.85 received message
+Apr 09, 2017 09:37:37.10 [3992:8128:0409/093737.106:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Apr 09, 2017 10:18:28.48 [6048:3888:0409/101828.471:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 10:18:29.17 [5532,8364:15:18:29.173000] Native Client module will be loaded at base address 0x0000025000000000
+Apr 09, 2017 10:18:29.37 [5532,3464:15:18:29.374000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 10:18:29.37 CreateModule.
+Apr 09, 2017 10:18:49.95 received message
+Apr 09, 2017 10:20:40.15 received message
+Apr 09, 2017 11:44:31.28 [5164:7180:0409/114431.271:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 11:44:31.85 [6188,1148:16:44:31.854000] Native Client module will be loaded at base address 0x000000c500000000
+Apr 09, 2017 11:44:32.01 [6188,4828:16:44:32.014000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 11:44:32.01 CreateModule.
+Apr 09, 2017 11:45:25.07 [4600:5100:0409/114525.069:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 11:45:25.81 [9428,7036:16:45:25.814000] Native Client module will be loaded at base address 0x0000066d00000000
+Apr 09, 2017 11:45:25.95 [9428,2100:16:45:25.950000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 11:45:25.95 CreateModule.
+Apr 09, 2017 11:50:37.45 [7600:6084:0409/115037.453:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 11:50:38.75 [1308,80:16:50:38.755000] Native Client module will be loaded at base address 0x0000074c00000000
+Apr 09, 2017 11:50:38.93 [1308,9824:16:50:38.933000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 11:50:38.93 CreateModule.
+Apr 09, 2017 11:57:05.87 received message
+Apr 09, 2017 11:59:36.88 received message
+Apr 09, 2017 12:01:09.67 received message
+Apr 09, 2017 12:06:29.34 received message
+Apr 09, 2017 12:19:59.95 received message
+Apr 09, 2017 12:33:19.46 received message
+Apr 09, 2017 12:42:29.51 received message
+
+Apr 09, 2017 13:28:58.98 NEW SESSION
+Apr 09, 2017 13:28:58.98 [4220:6812:0409/132858.980:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 13:28:59.80 [3832,4684:18:28:59.799000] Native Client module will be loaded at base address 0x0000035d00000000
+Apr 09, 2017 13:29:00.04 [3832,504:18:29:00.047000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 13:29:00.05 CreateModule.
+Apr 09, 2017 13:29:21.38 received message
+Apr 09, 2017 13:30:41.67 received message
+Apr 09, 2017 13:31:19.11 received message
+Apr 09, 2017 13:38:41.76 received message
+Apr 09, 2017 13:39:35.44 received message
+Apr 09, 2017 13:42:32.84 received message
+Apr 09, 2017 14:08:16.78 received message
+Apr 09, 2017 14:09:33.18 received message
+Apr 09, 2017 14:21:25.95 received message
+Apr 09, 2017 14:32:59.57 received message
+Apr 09, 2017 14:57:14.98 received message
+Apr 09, 2017 16:08:07.18 received message
+Apr 09, 2017 16:08:57.08 received message
+Apr 09, 2017 16:11:08.78 received message
+Apr 09, 2017 16:14:04.90 received message
+Apr 09, 2017 16:15:34.42 received message
+Apr 09, 2017 16:17:00.32 received message
+Apr 09, 2017 16:37:07.31 received message
+Apr 09, 2017 16:38:24.82 [8704:2184:0409/163824.821:ERROR:render_process_host_impl.cc(2059)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+Apr 09, 2017 22:29:40.17 [1728:7704:0409/222940.159:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 22:29:41.01 [4260,9828:03:29:41.013000] Native Client module will be loaded at base address 0x0000007400000000
+Apr 09, 2017 22:29:41.20 [4260,7604:03:29:41.201000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 22:29:41.20 CreateModule.
+Apr 09, 2017 22:30:13.75 [1112:5356:0409/223013.719:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 22:30:14.70 [3496,6760:03:30:14.682000] Native Client module will be loaded at base address 0x000000b500000000
+Apr 09, 2017 22:30:15.04 [3496,8972:03:30:15.038000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 22:30:15.04 CreateModule.
+Apr 09, 2017 22:30:28.07 received message
+Apr 09, 2017 23:15:56.54 received message
+Apr 09, 2017 23:18:25.77 received message
+Apr 09, 2017 23:22:24.21 received message
+Apr 09, 2017 23:25:10.57 received message
+Apr 09, 2017 23:26:16.34 received message
+Apr 09, 2017 23:27:42.80 received message
+Apr 09, 2017 23:28:40.05 received message
+Apr 09, 2017 23:31:45.19 received message
+Apr 09, 2017 23:32:28.78 received message
+
+Apr 09, 2017 23:38:52.14 NEW SESSION
+Apr 09, 2017 23:38:52.14 [3612:3600:0409/233852.089:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 09, 2017 23:38:54.32 [6232,6236:04:38:54.327000] Native Client module will be loaded at base address 0x0000003f00000000
+Apr 09, 2017 23:38:54.47 [6232,6312:04:38:54.470000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 09, 2017 23:38:54.47 CreateModule.
+Apr 09, 2017 23:39:03.70 received message
+Apr 09, 2017 23:54:23.82 [5904:3524:0409/235423.826:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 10, 2017 24:06:26.28 [228:3996:0410/000626.264:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 10, 2017 24:06:27.11 [4264,6088:05:06:27.110000] Native Client module will be loaded at base address 0x0000020b00000000
+Apr 10, 2017 24:06:27.28 [4264,4932:05:06:27.287000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 10, 2017 24:06:27.29 CreateModule.
+Apr 10, 2017 24:16:22.35 received message
+Apr 10, 2017 24:22:53.83 received message
+Apr 10, 2017 24:23:26.76 received message
+Apr 10, 2017 24:24:56.36 received message
+Apr 10, 2017 24:26:58.22 received message
+Apr 10, 2017 24:37:59.71 received message
+Apr 10, 2017 24:41:03.46 received message
+Apr 10, 2017 24:43:07.70 received message
+Apr 10, 2017 24:50:55.50 received message
+Apr 10, 2017 01:08:13.91 received message
+
+Apr 10, 2017 09:15:36.97 NEW SESSION
+Apr 10, 2017 09:15:36.97 [5308:9192:0410/091536.934:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 10, 2017 09:15:38.81 [1496,780:14:15:38.583000] Native Client module will be loaded at base address 0x0000069900000000
+Apr 10, 2017 09:15:38.81 [1496,6032:14:15:38.775000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 10, 2017 09:15:38.83 CreateModule.
+Apr 10, 2017 09:16:07.59 received message
+Apr 10, 2017 10:12:12.80 [1932:4248:0410/101212.784:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 10, 2017 10:12:13.88 [1296,9112:15:12:13.868000] Native Client module will be loaded at base address 0x0000003100000000
+Apr 10, 2017 10:12:14.11 [1296,7728:15:12:14.097000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 10, 2017 10:12:14.13 CreateModule.
+Apr 10, 2017 10:13:52.85 [196:5780:0410/101352.851:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 10, 2017 10:13:53.36 [916,9024:15:13:53.360000] Native Client module will be loaded at base address 0x000001ba00000000
+Apr 10, 2017 10:13:53.48 [916,9160:15:13:53.485000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 10, 2017 10:13:53.48 CreateModule.
+Apr 10, 2017 10:51:53.59 received message
+Apr 10, 2017 10:55:26.87 received message
+Apr 10, 2017 11:02:47.55 received message
+Apr 10, 2017 11:07:19.09 received message
+Apr 10, 2017 11:08:26.93 received message
+Apr 10, 2017 11:09:48.22 received message
+Apr 10, 2017 11:18:12.29 received message
+Apr 10, 2017 11:22:04.89 received message
+Apr 10, 2017 11:27:55.88 received message
+Apr 10, 2017 11:28:35.05 received message
+Apr 10, 2017 11:32:41.20 received message
+Apr 10, 2017 11:35:53.96 [6340:8752:0410/113553.409:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 10, 2017 11:35:54.21 [1820,6148:16:35:54.213000] Native Client module will be loaded at base address 0x0000078900000000
+Apr 10, 2017 11:35:54.53 CreateModule.
+Apr 10, 2017 11:35:54.53 [1820,6056:16:35:54.525000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 10, 2017 11:39:35.13 received message
+Apr 10, 2017 13:12:43.47 [4652:7852:0410/131243.469:ERROR:vcdecoder.cc(937)] FinishDecoding() called before parsing entire delta file window
+Apr 10, 2017 13:12:43.47 
+
+Apr 10, 2017 19:55:41.03 NEW SESSION
+Apr 10, 2017 19:55:41.03 [2624:6568:0410/195541.029:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 10, 2017 19:55:41.89 [2592,11032:00:55:41.889000] Native Client module will be loaded at base address 0x0000049e00000000
+Apr 10, 2017 19:55:42.09 [2592,9528:00:55:42.095000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 10, 2017 19:55:42.10 CreateModule.
+Apr 10, 2017 19:55:52.10 received message
+Apr 10, 2017 19:58:30.13 [8124:4120:0410/195830.134:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 10, 2017 19:58:30.69 [8144,11056:00:58:30.695000] Native Client module will be loaded at base address 0x0000069e00000000
+Apr 10, 2017 19:58:30.84 [8144,2840:00:58:30.845000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 10, 2017 19:58:30.84 CreateModule.
+Apr 10, 2017 20:00:45.80 received message
+Apr 10, 2017 20:04:32.84 [6612:6700:0410/200432.825:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 10, 2017 20:04:33.54 [3188,7660:01:04:33.537000] Native Client module will be loaded at base address 0x0000036300000000
+Apr 10, 2017 20:04:33.91 [3188,4624:01:04:33.910000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 10, 2017 20:04:33.93 CreateModule.
+Apr 10, 2017 20:08:07.28 received message
+Apr 10, 2017 22:20:29.74 received message
+Apr 10, 2017 23:28:29.34 received message
+Apr 10, 2017 23:33:51.79 received message
+Apr 10, 2017 23:36:49.86 received message
+Apr 10, 2017 23:44:32.41 received message
+Apr 10, 2017 23:49:35.76 received message
+Apr 10, 2017 23:55:44.52 received message
+Apr 11, 2017 24:03:07.57 received message
+Apr 11, 2017 24:07:05.36 received message
+Apr 11, 2017 24:13:10.37 received message
+Apr 11, 2017 24:15:21.97 received message
+Apr 11, 2017 24:18:03.19 received message
+Apr 11, 2017 24:21:41.17 received message
+Apr 11, 2017 24:23:38.44 received message
+Apr 11, 2017 24:33:10.58 [1888:2084:0411/003310.573:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 24:33:11.24 [1084,1532:05:33:11.245000] Native Client module will be loaded at base address 0x000007dc00000000
+Apr 11, 2017 24:33:11.44 [1084,8764:05:33:11.446000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 24:33:11.45 CreateModule.
+Apr 11, 2017 24:33:59.08 [6164:9684:0411/003359.079:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 24:33:59.62 [8252,3744:05:33:59.623000] Native Client module will be loaded at base address 0x000002dc00000000
+Apr 11, 2017 24:33:59.84 [8252,10444:05:33:59.841000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 24:33:59.84 CreateModule.
+Apr 11, 2017 24:34:52.12 received message
+Apr 11, 2017 24:37:51.53 received message
+Apr 11, 2017 24:56:42.11 received message
+
+Apr 11, 2017 01:17:01.84 NEW SESSION
+Apr 11, 2017 01:17:01.84 [5692,5272:06:17:01.844000] Native Client module will be loaded at base address 0x0000073d00000000
+Apr 11, 2017 01:17:02.03 CreateModule.
+Apr 11, 2017 01:17:02.03 [5692,2172:06:17:01.959000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 01:17:02.50 [1028:1176:0411/011702.500:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 01:17:16.36 [116:4900:0411/011716.360:ERROR:native_message_process_host.cc(330)] Error when writing to Native Messaging host: -101
+Apr 11, 2017 01:19:10.50 received message
+Apr 11, 2017 01:19:24.19 [116:3984:0411/011924.198:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 11, 2017 01:19:47.78 [116:3984:0411/011947.786:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 11, 2017 01:20:34.21 [116:3984:0411/012034.209:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 11, 2017 01:22:05.09 [116:3984:0411/012205.092:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 11, 2017 01:34:14.85 received message
+Apr 11, 2017 01:35:36.55 received message
+Apr 11, 2017 01:36:27.98 [8056:8052:0411/013627.977:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 01:36:28.67 [2152,3268:06:36:28.671000] Native Client module will be loaded at base address 0x0000008100000000
+Apr 11, 2017 01:36:28.99 [2152,1508:06:36:28.991000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 01:36:28.99 CreateModule.
+Apr 11, 2017 01:38:10.40 [7000:6984:0411/013810.395:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 01:38:10.83 [6788,3760:06:38:10.830000] Native Client module will be loaded at base address 0x0000068300000000
+Apr 11, 2017 01:38:11.02 [6788,4316:06:38:11.021000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 01:38:11.02 CreateModule.
+Apr 11, 2017 01:39:07.36 received message
+
+Apr 11, 2017 10:20:43.35 NEW SESSION
+Apr 11, 2017 10:20:43.35 [3824:7780:0411/102043.349:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 10:20:43.99 [3004,8576:15:20:43.996000] Native Client module will be loaded at base address 0x0000063a00000000
+Apr 11, 2017 10:20:44.12 [3004,4336:15:20:44.122000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 10:20:44.12 CreateModule.
+Apr 11, 2017 10:21:28.59 received message
+Apr 11, 2017 10:24:25.06 received message
+Apr 11, 2017 10:26:31.72 received message
+Apr 11, 2017 10:33:52.61 [7192:4072:0411/103352.613:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 10:33:53.22 [9044,4288:15:33:53.220000] Native Client module will be loaded at base address 0x000001a200000000
+Apr 11, 2017 10:33:53.36 [9044,4376:15:33:53.367000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 10:33:53.37 CreateModule.
+Apr 11, 2017 10:34:08.43 received message
+Apr 11, 2017 10:35:49.41 received message
+Apr 11, 2017 10:38:13.32 received message
+Apr 11, 2017 10:39:43.49 received message
+Apr 11, 2017 10:41:02.21 received message
+Apr 11, 2017 10:42:03.43 received message
+Apr 11, 2017 11:47:10.61 [4428:1668:0411/114710.607:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 11:47:11.40 [3432,9168:16:47:11.397000] Native Client module will be loaded at base address 0x0000079500000000
+Apr 11, 2017 11:47:11.73 CreateModule.
+Apr 11, 2017 11:47:11.74 [3432,5348:16:47:11.731000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 11:47:44.15 received message
+Apr 11, 2017 12:26:29.07 [3248:1044:0411/122629.061:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 12:26:29.71 [5216,6972:17:26:29.717000] Native Client module will be loaded at base address 0x000003f700000000
+Apr 11, 2017 12:26:29.88 [5216,8776:17:26:29.885000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 12:26:29.89 CreateModule.
+Apr 11, 2017 12:32:56.29 [1480:5780:0411/123256.290:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 12:32:56.98 [10048,2716:17:32:56.980000] Native Client module will be loaded at base address 0x000000b600000000
+Apr 11, 2017 12:32:57.13 [10048,1344:17:32:57.134000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 12:32:57.13 CreateModule.
+Apr 11, 2017 12:41:47.31 [6120:7628:0411/124147.306:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 12:41:48.07 [8600,7184:17:41:48.069000] Native Client module will be loaded at base address 0x0000037700000000
+Apr 11, 2017 12:41:48.21 [8600,3564:17:41:48.218000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 12:41:48.22 CreateModule.
+
+Apr 11, 2017 13:07:05.54 NEW SESSION
+Apr 11, 2017 13:07:05.54 [9504:3428:0411/130705.478:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 13:07:06.15 [7088,8392:18:07:06.148000] Native Client module will be loaded at base address 0x000007ab00000000
+Apr 11, 2017 13:07:07.14 [7088,9360:18:07:06.584000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 13:07:07.26 CreateModule.
+
+Apr 11, 2017 15:22:49.26 NEW SESSION
+Apr 11, 2017 15:22:49.26 [10112:7212:0411/152249.263:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 15:22:49.97 [5724,8544:20:22:49.976000] Native Client module will be loaded at base address 0x0000020900000000
+Apr 11, 2017 15:22:50.27 [5724,9004:20:22:50.275000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 15:22:50.27 CreateModule.
+Apr 11, 2017 15:39:24.44 received message
+Apr 11, 2017 15:47:47.35 received message
+Apr 11, 2017 15:52:16.29 received message
+Apr 11, 2017 15:56:52.37 received message
+
+Apr 11, 2017 16:01:26.55 NEW SESSION
+Apr 11, 2017 16:01:26.55 [9936:4292:0411/160126.517:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 16:01:27.31 [10064,8136:21:01:27.301000] Native Client module will be loaded at base address 0x0000070200000000
+Apr 11, 2017 16:01:27.46 [10064,6060:21:01:27.460000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 16:01:27.46 CreateModule.
+Apr 11, 2017 16:03:18.73 received message
+Apr 11, 2017 16:06:02.10 received message
+Apr 11, 2017 16:28:47.92 received message
+Apr 11, 2017 16:31:03.98 received message
+Apr 11, 2017 16:34:08.03 received message
+Apr 11, 2017 16:34:47.89 [9068:7804:0411/163447.888:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 16:34:48.64 [7448,9044:21:34:48.646000] Native Client module will be loaded at base address 0x000004e900000000
+Apr 11, 2017 16:34:48.76 [7448,2876:21:34:48.766000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 16:34:48.76 CreateModule.
+Apr 11, 2017 16:35:02.22 received message
+
+Apr 11, 2017 16:39:08.40 NEW SESSION
+Apr 11, 2017 16:39:08.40 [5352:5884:0411/163908.399:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 16:39:08.87 [3540,7352:21:39:08.867000] Native Client module will be loaded at base address 0x0000004b00000000
+Apr 11, 2017 16:39:09.02 [3540,8216:21:39:09.026000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 16:39:09.02 CreateModule.
+Apr 11, 2017 16:39:23.09 received message
+Apr 11, 2017 17:53:10.17 [2712:5564:0411/175310.158:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 17:53:11.08 [2124,7628:22:53:11.080000] Native Client module will be loaded at base address 0x0000067900000000
+Apr 11, 2017 17:53:11.31 [2124,8892:22:53:11.311000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 17:53:11.32 CreateModule.
+Apr 11, 2017 17:54:53.75 received message
+Apr 11, 2017 18:03:12.98 [884:440:0411/180312.970:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 18:03:13.71 [7564,8008:23:03:13.711000] Native Client module will be loaded at base address 0x000005dd00000000
+Apr 11, 2017 18:03:13.92 [7564,9500:23:03:13.923000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 18:03:13.92 CreateModule.
+Apr 11, 2017 18:05:54.53 [5912:3672:0411/180554.533:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 18:05:55.34 [9488,5516:23:05:55.331000] Native Client module will be loaded at base address 0x0000050500000000
+Apr 11, 2017 18:05:55.64 [9488,6340:23:05:55.638000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 18:05:55.66 CreateModule.
+Apr 11, 2017 18:08:55.05 [6528:8204:0411/180855.055:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 18:08:55.82 [1736,6764:23:08:55.812000] Native Client module will be loaded at base address 0x000000b600000000
+Apr 11, 2017 18:08:55.96 [1736,6716:23:08:55.968000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 18:08:55.97 CreateModule.
+
+Apr 11, 2017 19:44:43.04 NEW SESSION
+Apr 11, 2017 19:44:43.04 [668:1428:0411/194442.979:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 19:44:43.82 [2100,9176:00:44:43.822000] Native Client module will be loaded at base address 0x000006ee00000000
+Apr 11, 2017 19:44:44.00 [2100,988:00:44:44.004000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 19:44:44.01 CreateModule.
+Apr 11, 2017 19:50:17.28 [5492:4056:0411/195017.276:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 19:50:18.78 [8720,7764:00:50:18.773000] Native Client module will be loaded at base address 0x0000005100000000
+Apr 11, 2017 19:50:18.98 [8720,6264:00:50:18.983000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 19:50:18.98 CreateModule.
+Apr 11, 2017 20:22:12.23 received message
+Apr 11, 2017 20:43:14.82 received message
+Apr 11, 2017 20:53:32.60 received message
+Apr 11, 2017 20:55:32.65 received message
+Apr 11, 2017 21:04:23.66 received message
+Apr 11, 2017 21:07:28.68 received message
+Apr 11, 2017 21:14:08.44 received message
+Apr 11, 2017 21:16:01.91 received message
+Apr 11, 2017 21:17:36.75 received message
+Apr 11, 2017 21:19:20.96 received message
+Apr 11, 2017 21:20:43.63 received message
+
+Apr 11, 2017 22:34:06.22 NEW SESSION
+Apr 11, 2017 22:34:06.22 [8196:10824:0411/223406.158:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 22:34:06.80 [10960,7656:03:34:06.808000] Native Client module will be loaded at base address 0x000003cb00000000
+Apr 11, 2017 22:34:07.26 [10960,3828:03:34:07.249000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 22:34:07.30 CreateModule.
+Apr 11, 2017 22:34:38.76 [1592:3460:0411/223438.750:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 22:34:39.74 [10348,3880:03:34:39.743000] Native Client module will be loaded at base address 0x000006d700000000
+Apr 11, 2017 22:34:40.15 [10348,9860:03:34:40.145000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 22:34:40.16 CreateModule.
+Apr 11, 2017 22:35:17.89 [4216:4840:0411/223517.881:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 11, 2017 22:35:18.70 [7440,8412:03:35:18.705000] Native Client module will be loaded at base address 0x000004a500000000
+Apr 11, 2017 22:35:18.97 [7440,8412:03:35:18.919000] NaClPageAlloc: VirtualAlloc(*,0x10000) failed
+Apr 11, 2017 22:35:19.12 [7440,3024:03:35:19.092000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 11, 2017 22:35:19.14 CreateModule.
+Apr 11, 2017 22:39:36.59 received message
+Apr 11, 2017 22:45:45.30 received message
+Apr 11, 2017 23:08:08.07 [3736:11184:0411/230808.075:ERROR:vcdecoder.cc(937)] FinishDecoding() called before parsing entire delta file window
+Apr 11, 2017 23:08:08.07 
+Apr 11, 2017 23:08:59.31 received message
+Apr 11, 2017 23:09:15.36 received message
+Apr 11, 2017 23:09:32.43 received message
+Apr 11, 2017 23:09:37.21 received message
+Apr 11, 2017 23:09:43.48 received message
+Apr 11, 2017 23:09:46.54 received message
+Apr 11, 2017 23:09:51.30 received message
+Apr 11, 2017 23:09:59.27 received message
+Apr 11, 2017 23:10:01.28 received message
+Apr 11, 2017 23:10:05.15 received message
+Apr 11, 2017 23:17:36.91 received message
+
+Apr 12, 2017 19:56:55.67 NEW SESSION
+Apr 12, 2017 19:56:55.67 [5648:336:0412/195655.612:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 12, 2017 19:56:56.55 [6784,1912:00:56:56.538000] Native Client module will be loaded at base address 0x0000014c00000000
+Apr 12, 2017 19:56:56.80 CreateModule.
+Apr 12, 2017 19:56:56.80 [6784,6064:00:56:56.798000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 12, 2017 20:04:20.17 [3064:6480:0412/200420.172:ERROR:vcdecoder.cc(937)] FinishDecoding() called before parsing entire delta file window
+Apr 12, 2017 20:04:20.17 
+Apr 12, 2017 20:08:18.75 received message
+Apr 12, 2017 20:10:27.99 received message
+Apr 12, 2017 20:12:12.42 received message
+Apr 12, 2017 20:51:41.87 received message
+Apr 12, 2017 22:48:33.70 [3064:6480:0412/224833.706:ERROR:vcdecoder.cc(937)] FinishDecoding() called before parsing entire delta file window
+Apr 12, 2017 22:48:33.71 
+Apr 12, 2017 22:58:36.24 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.24 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.25 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://js.users.51.la/19140635.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.25 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://js.users.51.la/19140635.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.25 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.25 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.25 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.25 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.25 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 12, 2017 22:58:36.25 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 02:09:24.85 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this[3064:6480:0413/020924.845:ERROR:vcdecoder.cc(937)] FinishDecoding() called before parsing entire delta file window
+Apr 13, 2017 02:09:24.85 
+Apr 13, 2017 02:19:20.57  page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 02:19:20.57 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 02:19:20.57 [4272:2340:0413/021920.568:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: data source error"}
+Apr 13, 2017 03:27:31.39 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:31.39 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:31.39 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:31.39 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:31.39 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:31.39 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://img1.ph-126.net/google.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:31.40 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/nmedianet.js?cid=8CU1S63Y8, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:31.40 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/nmedianet.js?cid=8CU1S63Y8, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:31.40 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/fcmdynet.js?&cid=8CU1S63Y8&cpcd=--96ZT9XjMPmNOL1RWcQ3A%3D%3D&crid=880874373&size=728x90&cc=US&sc=TX&vif=1&requrl=http%3A%2F%2Fwww.javawebtutor.com%2Farticles%2Fhibernate%2Fhibernate_query_language_hql_example.php&kwrf=http%3A%2F%2Fwww.google.com&nse=3&vi=1492072050850289427&lw=1&ugd=4&re=1&hlt=1&dfp=1&rtbs=1, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:34.16 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/fcmdynet.js?&cid=8CU1S63Y8&cpcd=--96ZT9XjMPmNOL1RWcQ3A%3D%3D&crid=880874373&size=728x90&cc=US&sc=TX&vif=1&requrl=http%3A%2F%2Fwww.javawebtutor.com%2Farticles%2Fhibernate%2Fhibernate_query_language_hql_example.php&kwrf=http%3A%2F%2Fwww.google.com&nse=3&vi=1492072050850289427&lw=1&ugd=4&re=1&hlt=1&dfp=1&rtbs=1, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:34.16 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/nmedianet.js?cid=8CU1S63Y8, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:34.16 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/nmedianet.js?cid=8CU1S63Y8, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:34.16 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/fcmdynet.js?&cid=8CU1S63Y8&cpcd=--96ZT9XjMPmNOL1RWcQ3A%3D%3D&crid=872282154&size=336x280&cc=US&sc=TX&vif=1&requrl=http%3A%2F%2Fwww.javawebtutor.com%2Farticles%2Fhibernate%2Fhibernate_query_language_hql_example.php&kwrf=http%3A%2F%2Fwww.google.com&nse=3&vi=1492072052571371249&lw=1&ugd=4&re=1, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:34.16 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/fcmdynet.js?&cid=8CU1S63Y8&cpcd=--96ZT9XjMPmNOL1RWcQ3A%3D%3D&crid=872282154&size=336x280&cc=US&sc=TX&vif=1&requrl=http%3A%2F%2Fwww.javawebtutor.com%2Farticles%2Fhibernate%2Fhibernate_query_language_hql_example.php&kwrf=http%3A%2F%2Fwww.google.com&nse=3&vi=1492072052571371249&lw=1&ugd=4&re=1, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:34.16 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/nmedianet.js?cid=8CU1S63Y8, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:34.16 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/nmedianet.js?cid=8CU1S63Y8, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Apr 13, 2017 03:27:34.16 A Parser-blocking, cross site (i.e. different eTLD+1) script, http://contextual.media.net/fcmdynet.js?&cid=8CU1S63Y8&cpcd=--96ZT9XjMPmNOL1RWcQ3A%3D%3D&crid=145171865&size=300x250&cc=US&sc=TX&vif=1&requrl=http%3A%2F%2Fwww.javawebtutor.com%2Farticles%2Fhibernate%2Fhibernate_query_language_hql_example.php&kwrf=http%3A%2F%2Fwww.google.com&nse=3&vi=1492072052789282457&lw=1&ugd=4&re=1&hlt=1&dfp=1&rtbs=1, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+
+Apr 15, 2017 12:45:40.11 NEW SESSION
+Apr 15, 2017 12:45:40.11 [9096:8920:0415/124539.978:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 15, 2017 12:45:40.88 [3264,9888:17:45:40.872000] Native Client module will be loaded at base address 0x000007e900000000
+Apr 15, 2017 12:45:41.16 [3264,7212:17:45:41.159000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 15, 2017 12:45:41.17 CreateModule.
+
+Apr 17, 2017 20:41:22.18 NEW SESSION
+Apr 17, 2017 20:41:22.18 [10568:10572:0417/204122.138:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 20:41:22.93 [11024,11072:01:41:22.938000] Native Client module will be loaded at base address 0x0000002500000000
+Apr 17, 2017 20:41:23.16 [11024,7868:01:41:23.159000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 17, 2017 20:41:23.16 CreateModule.
+Apr 17, 2017 20:45:19.15 [2620:2600:0417/204519.140:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 20:45:20.03 [6012,11016:01:45:20.030000] Native Client module will be loaded at base address 0x0000062a00000000
+Apr 17, 2017 20:45:20.33 [6012,1060:01:45:20.319000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 17, 2017 20:45:20.34 CreateModule.
+Apr 17, 2017 20:49:01.80 [4848:4080:0417/204901.788:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 20:49:03.04 [9368,9560:01:49:03.015000] Native Client module will be loaded at base address 0x000006b600000000
+Apr 17, 2017 20:49:03.24 [9368,8924:01:49:03.244000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 17, 2017 20:49:03.25 CreateModule.
+Apr 17, 2017 22:39:34.76 received message
+Apr 17, 2017 23:34:50.55 received message
+Apr 17, 2017 23:37:55.10 received message
+Apr 17, 2017 23:48:53.73 received message
+Apr 17, 2017 23:53:03.50 received message
+Apr 17, 2017 23:57:15.76 received message
+Apr 17, 2017 23:59:25.13 received message
+Apr 18, 2017 24:03:46.64 received message
+Apr 18, 2017 24:05:41.97 received message
+Apr 18, 2017 24:10:21.04 received message
+Apr 18, 2017 24:16:26.68 received message
+Apr 18, 2017 24:22:04.26 received message
+Apr 18, 2017 24:24:30.03 received message
+Apr 18, 2017 24:27:27.77 [10824:11152:0418/002727.773:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 18, 2017 24:27:28.63 [8488,9860:05:27:28.603000] Native Client module will be loaded at base address 0x000001e300000000
+Apr 18, 2017 24:27:28.88 [8488,6980:05:27:28.884000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 18, 2017 24:27:28.88 CreateModule.
+Apr 18, 2017 24:27:54.96 received message
+Apr 18, 2017 24:35:09.96 received message
+Apr 18, 2017 24:36:23.42 received message
+Apr 18, 2017 24:40:50.81 received message
+Apr 18, 2017 24:41:13.37 received message
+Apr 18, 2017 24:43:48.00 received message
+Apr 18, 2017 24:52:09.62 received message
+Apr 18, 2017 24:52:34.49 received message
+Apr 18, 2017 24:55:49.56 received message
+Apr 18, 2017 24:56:04.49 received message
+Apr 18, 2017 01:21:12.07 [10512:4364:0418/012112.070:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 18, 2017 01:21:12.95 [7544,5308:06:21:12.943000] Native Client module will be loaded at base address 0x000006d800000000
+Apr 18, 2017 01:21:13.29 [7544,11128:06:21:13.266000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 18, 2017 01:21:13.32 CreateModule.
+Apr 18, 2017 01:21:51.97 received message
+Apr 18, 2017 01:24:08.49 received message
+Apr 18, 2017 01:30:16.21 received message
+Apr 18, 2017 01:30:31.23 received message
+Apr 18, 2017 01:30:54.89 received message
+Apr 18, 2017 01:31:45.51 received message
+Apr 18, 2017 01:33:18.89 received message
+Apr 18, 2017 01:35:52.79 received message
+Apr 18, 2017 01:40:25.47 received message
+
+Apr 30, 2017 17:27:41.11 NEW SESSION
+Apr 30, 2017 17:27:41.11 [4532:11092:0430/172740.942:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 30, 2017 17:27:41.73 [10296,7988:22:27:41.737000] Native Client module will be loaded at base address 0x000006ea00000000
+Apr 30, 2017 17:27:42.13 [10296,8140:22:27:42.124000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 30, 2017 17:27:42.14 CreateModule.
+
+Apr 30, 2017 19:49:24.30 NEW SESSION
+Apr 30, 2017 19:49:24.30 [10720:5432:0430/194924.291:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 30, 2017 19:49:24.87 [8460,8516:00:49:24.843000] Native Client module will be loaded at base address 0x0000029e00000000
+Apr 30, 2017 19:49:25.14 [8460,884:00:49:25.140000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+Apr 30, 2017 19:49:25.16 CreateModule.
+Apr 30, 2017 22:07:48.29 [204:6616:0430/220748.296:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 30, 2017 22:40:12.85 [204:6616:0430/224012.856:ERROR:render_process_host_impl.cc(2059)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+Apr 30, 2017 22:46:07.28 [204:6616:0430/224607.284:ERROR:render_process_host_impl.cc(2059)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+Apr 30, 2017 22:47:38.97 [204:6616:0430/224738.968:ERROR:render_process_host_impl.cc(2059)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+
+May 01, 2017 14:27:53.04 NEW SESSION
+May 01, 2017 14:27:53.04 [7940:8628:0501/142752.804:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+May 01, 2017 14:27:55.15 [9784,9768:19:27:55.156000] Native Client module will be loaded at base address 0x000006f100000000
+May 01, 2017 14:27:55.53 [9784,9780:19:27:55.529000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+May 01, 2017 14:27:55.53 CreateModule.
+
+May 02, 2017 13:57:39.64 NEW SESSION
+May 02, 2017 13:57:39.64 [8704:8000:0502/135739.622:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+May 02, 2017 13:57:39.93 [9280,9284:18:57:39.936000] Native Client module will be loaded at base address 0x0000017100000000
+May 02, 2017 13:57:40.25 [9280,9496:18:57:40.252000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+May 02, 2017 13:57:40.25 CreateModule.
+
+May 03, 2017 20:43:35.10 NEW SESSION
+May 03, 2017 20:43:35.10 [10720:5992:0503/204335.046:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+May 03, 2017 20:43:35.63 [13956,11720:01:43:35.636000] Native Client module will be loaded at base address 0x000005ac00000000
+May 03, 2017 20:43:36.24 [13956,6140:01:43:36.246000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+May 03, 2017 20:43:36.25 CreateModule.
+
+May 04, 2017 09:19:37.95 NEW SESSION
+May 04, 2017 09:19:37.95 [7124:12848:0504/091937.929:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+May 04, 2017 09:19:38.36 [13168,4744:14:19:38.357000] Native Client module will be loaded at base address 0x000002d100000000
+May 04, 2017 09:19:39.41 [13168,8496:14:19:39.411000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+May 04, 2017 09:19:39.43 CreateModule.
+
+May 05, 2017 09:35:27.31 NEW SESSION
+May 05, 2017 09:35:27.31 [9796,504:14:35:27.166000] Native Client module will be loaded at base address 0x000007da00000000
+May 05, 2017 09:35:27.31 [1152:1264:0505/093527.219:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+May 05, 2017 09:35:27.44 [9796,7540:14:35:27.443000] NaClAbiStatHostDescStatXlateCtor: Unusual NaCl descriptor type (not constructible). The NaCl app has a file with st_mode = 010000.
+May 05, 2017 09:35:27.44 CreateModule.
+May 05, 2017 09:35:31.77 [8128:6152:0505/093531.777:ERROR:nacl_process_host.cc(261)] NaCl process exited with status 258 (0x102)
+
+Jun 08, 2017 13:03:47.33 NEW SESSION
+Jun 08, 2017 13:03:47.33 [3796:5040:0608/130347.334:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 08, 2017 13:04:29.24 [3796:5040:0608/130429.242:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 08, 2017 13:08:54.50 [1400:4440:0608/130854.501:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 08, 2017 13:09:28.86 [2440:4532:0608/130928.859:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 08, 2017 13:09:31.23 [2440:4500:0608/130931.230:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+
+Jun 12, 2017 16:41:53.80 NEW SESSION
+Jun 12, 2017 16:41:53.80 [9104:8676:0612/164152.935:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+Jun 12, 2017 16:41:53.81 [9104:8676:0612/164152.935:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\sridhar\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\sridhar\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jun 12, 2017 16:41:53.81 [9104:8676:0612/164152.935:ERROR:disk_cache.cc(132)] Unable to create cache
+Jun 12, 2017 16:41:53.81 [9104:8676:0612/164152.935:ERROR:shader_disk_cache.cc(604)] Shader Cache Creation failed: -2
+Jun 12, 2017 16:41:53.81 [9104:8676:0612/164153.761:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+
+Jun 13, 2017 11:41:25.59 NEW SESSION
+Jun 13, 2017 11:41:25.60 [3856:8152:0613/114125.546:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: content::mojom::Child exposed by: nacl_loader
+Jun 13, 2017 11:41:25.90 [3856:8152:0613/114125.891:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 13, 2017 11:41:53.59 [3856:3604:0613/114153.587:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 13, 2017 11:42:10.29 [3856:8152:0613/114210.292:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 13, 2017 11:52:32.26 [3856:8152:0613/115232.258:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jun 13, 2017 11:57:04.75 [3856:3604:0613/115704.751:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 13, 2017 12:28:34.34 [3856:8152:0613/122834.346:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 13, 2017 14:45:21.19 [3856:3604:0613/144521.137:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 13, 2017 15:27:18.57 [3856:8152:0613/152718.571:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 13, 2017 16:02:34.44 [3856:8152:0613/160234.437:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 13, 2017 16:31:42.11 [3856:3604:0613/163142.098:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 13, 2017 16:55:27.98 [3856:8152:0613/165527.983:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Jun 13, 2017 17:30:37.81 [3856:3604:0613/173037.817:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 13, 2017 18:04:33.20 [3856:8152:0613/180433.198:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 13, 2017 18:04:54.74 [3856:8152:0613/180454.740:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 13, 2017 18:05:54.30 [3856:8152:0613/180554.303:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 13, 2017 18:07:39.86 [3856:8152:0613/180739.858:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 13, 2017 18:10:41.17 [3856:8152:0613/181041.170:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 13, 2017 18:12:23.55 [3856:960:0613/181223.554:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Jun 13, 2017 18:13:38.56 [3856:960:0613/181338.560:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Jun 13, 2017 18:14:22.17 [3856:3604:0613/181422.175:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 13, 2017 18:14:49.76 [3856:3604:0613/181449.761:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 13, 2017 18:15:31.80 [3856:3604:0613/181531.797:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 13, 2017 18:16:45.57 [3856:960:0613/181645.570:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Jun 13, 2017 18:17:16.96 [3856:3604:0613/181716.961:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 13, 2017 18:17:28.27 [3856:8152:0613/181728.268:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 13, 2017 18:20:12.63 [3856:3604:0613/182012.630:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 13, 2017 21:10:08.43 [3856:960:0613/211004.510:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Jun 13, 2017 21:10:12.55 [3856:3604:0613/211006.872:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 13, 2017 21:10:12.55 [3856:960:0613/211011.307:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Jun 13, 2017 21:10:23.43 [3856:8152:0613/211023.431:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jun 13, 2017 21:10:26.07 [3856:8152:0613/211025.072:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Jun 13, 2017 21:10:33.51 [3856:8152:0613/211033.513:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Jun 13, 2017 21:11:18.19 [3856:8152:0613/211118.195:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+
+Jun 14, 2017 01:17:51.50 NEW SESSION
+Jun 14, 2017 01:17:51.50 [1004:4168:0614/011751.146:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: content::mojom::Child exposed by: nacl_loader
+Jun 14, 2017 01:17:52.77 [1004:4168:0614/011752.775:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 01:18:31.36 [1004:4168:0614/011831.359:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 01:28:18.95 [1004:1848:0614/012818.940:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 01:51:34.77 [1004:4168:0614/015134.767:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+
+Jun 14, 2017 09:12:44.24 NEW SESSION
+Jun 14, 2017 09:12:44.24 [4984:4348:0614/091244.239:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: content::mojom::Child exposed by: nacl_loader
+Jun 14, 2017 09:12:44.73 [4984:4348:0614/091244.728:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:13:29.82 [4496:2836:0614/091329.821:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: content::mojom::Child exposed by: nacl_loader
+Jun 14, 2017 09:13:30.25 [4496:2836:0614/091330.190:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:14:15.67 [4496:2836:0614/091415.677:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:14:37.92 [4496:2780:0614/091437.888:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 09:18:00.85 [4496:2836:0614/091800.857:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.40 [4496:2836:0614/091932.386:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.45 [4496:2836:0614/091932.456:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.50 [4496:2836:0614/091932.503:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.55 [4496:2836:0614/091932.552:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.60 [4496:2836:0614/091932.601:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.66 [4496:2836:0614/091932.664:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.71 [4496:2836:0614/091932.719:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.77 [4496:2836:0614/091932.773:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.82 [4496:2836:0614/091932.828:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.88 [4496:2836:0614/091932.882:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.93 [4496:2836:0614/091932.934:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:32.98 [4496:2836:0614/091932.986:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:19:33.04 [4496:2836:0614/091933.040:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 09:31:14.47 [4496:2780:0614/093114.473:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 09:38:06.85 [4496:2780:0614/093806.853:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 10:28:08.40 [4496:2780:0614/102808.352:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 10:49:17.83 [4496:2780:0614/104917.828:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 10:58:37.13 [4496:2780:0614/105837.130:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 11:11:25.02 [4496:2836:0614/111124.968:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Jun 14, 2017 11:11:56.46 [4496:2780:0614/111156.466:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 11:34:06.15 [4496:2780:0614/113406.134:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 12:19:13.55 [4496:2780:0614/121913.460:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 12:20:41.35 [4496:2780:0614/122041.357:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 12:51:42.31 [4496:2780:0614/125142.312:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:13:07.04 [4496:2780:0614/131307.048:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:23:15.24 [4496:2780:0614/132315.209:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:23:49.26 [4496:2780:0614/132349.263:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:25:17.01 [4496:2780:0614/132517.007:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:28:30.06 [4496:2780:0614/132830.064:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:33:03.60 [4496:2780:0614/133303.602:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:38:00.60 [4496:2836:0614/133800.596:ERROR:service_manager_context.cc(161)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\59.0.3071.86\content_renderer.service.exe
+Jun 14, 2017 13:44:12.25 [4496:2780:0614/134412.246:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:52:34.13 [4496:2780:0614/135234.137:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 13:53:46.42 [4496:2836:0614/135346.416:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Jun 14, 2017 14:02:29.16 [4496:2780:0614/140229.159:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 14:04:19.95 [4496:2836:0614/140419.950:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 14:04:25.62 [4496:2836:0614/140425.626:ERROR:service_manager.cc(425)] InterfaceProviderSpec prevented connection from: content_utility to: content_browser
+Jun 14, 2017 14:16:46.53 [4496:2780:0614/141646.537:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jun 14, 2017 14:23:13.22 [4496:2780:0614/142313.200:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)

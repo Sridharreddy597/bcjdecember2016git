@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+import com.bcj.ArrayList.Student;
+
+public class Customer {
+	
+	String firstName;
+	 String lastName;
+	int age;
+	@Override
+	public String toString() {
+		return "Customer [firstName=" + firstName + ", lastName=" + lastName + ", age=" + age + "]";
+	}
+	
+  Customer(String firstName ,String lastName,int age){  
+		this.firstName=firstName;  
+		this.lastName=lastName;  
+		this.age=age;  
+		}
+
+private Student getStudentDetails() {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		Student std = new Student();
+		System.out.println("enter student id");
+		std.setStudentID(sc.nextLine());
+		System.out.println("enter first name of student");
+		std.setFirstName(sc.nextLine());
+		System.out.println("enter last name of student ");
+		std.setLastName(sc.nextLine());
+		System.out.println("enter the email of student");
+		std.setEmail(sc.nextLine());
+		System.out.println("enter the age of student");
+		std.setAge(sc.nextLine());
+		System.out.println("enter only 3test scores of the student in the form of (marks,marks,marks)");
+		std.setGrades(sc.nextLine());
+		return std;
+	} 
+	
+
+}

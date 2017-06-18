@@ -1,0 +1,71 @@
+
+import java.util.*;
+
+import java.io.*;
+
+public class DemoApplication {
+	public static void main(String args[]) {
+		ArrayList<Customer> al = new ArrayList<Customer>();
+		Scanner s = new Scanner(System.in);
+		for (int i = 0; i < 10; i++) {
+			
+
+			al.add(getCustomerDetails());
+		}
+
+		
+		
+		
+		System.out.println("1) sort by firstName\n"
+				+ " 2)sort by age"
+				+"3) sort by lastName");
+		
+		int choice =s.nextInt();
+		
+		
+		
+		
+		if(choice==1){
+		Collections.sort(al,new FirstNameComparator());  
+		for(Customer cst: al){  
+		System.out.println(cst.firstName+" "+cst.lastName+" "+cst.age);  
+		}  
+		}
+		if(choice ==2){
+		  
+		System.out.println("sorting by age...");  
+		  
+		Collections.sort(al,new AgeComparator());  
+		for(Customer st: al){  
+		System.out.println(st.firstName+" "+st.lastName+" "+st.age);  
+		}
+		}
+		
+		if(choice ==3){
+			  
+			System.out.println("sorting by age...");  
+			  
+			Collections.sort(al,new AgeComparator());  
+			for(Customer st: al){  
+			System.out.println(st.firstName+" "+st.lastName+" "+st.age);  
+			}
+			}
+
+	}
+
+	public static Customer getCustomerDetails() {
+		// TODO Auto-generated method stub
+		Customer cust = new Customer();
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("enter first name of customer");
+		cust.setFirstName(sc.nextLine());
+		System.out.println("enter last name of customer");
+		cust.setLastName(sc.nextLine());
+		System.out.println("enter age of student ");
+		cust.setAge(sc.nextInt());
+
+		return cust;
+	}
+
+}

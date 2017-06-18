@@ -1,0 +1,3 @@
+com\bcj\restclient\service\CustomerService.class
+com\bcj\restclient\model\Customer.class
+com\bcj\restclient\controller\CustomerController.class

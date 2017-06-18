@@ -1,0 +1,18 @@
+package praticeproblems;
+
+public class SubString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		String str= "HelloWorld";
+		System.out.println("string : "+str.substring(10));
+		System.out.println("string : "+str.substring(9));
+		System.out.println("string : "+str.substring(10));
+		System.out.println("string : "+str.length());
+		
+	}
+
+}

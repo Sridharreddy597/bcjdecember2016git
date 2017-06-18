@@ -1,0 +1,5 @@
+com\bcj\soapservice\model\Customer.class
+com\bcj\soapservice\service\CustomerService.class
+com\bcj\soapservice\service\CustomerServiceImpl.class
+com\bcj\soapservice\HibernateUtil.class
+com\bcj\soapservice\dao\CustomerDao.class

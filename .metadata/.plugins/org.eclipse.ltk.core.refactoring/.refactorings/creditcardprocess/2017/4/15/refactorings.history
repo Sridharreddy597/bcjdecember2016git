@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;creditcardprocess/bin/com/bcj/cronjob&apos; to &apos;creditcardrocess&apos;" description="Rename resource &apos;cronjob&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="bin/com/bcj/cronjob" name="creditcardrocess" stamp="1492043250687" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;creditcardprocess/src/com/bcj/cronjob&apos; to &apos;creditcardprocess&apos;" description="Rename resource &apos;cronjob&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/bcj/cronjob" name="creditcardprocess" stamp="1492043280201" updateReferences="true"/>
+</session>

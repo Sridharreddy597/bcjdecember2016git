@@ -1,0 +1,35 @@
+package com.bcj.atenainsurance.dao;
+
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+
+import com.bcj.atenainsurance.HibernateUtil;
+import com.bcj.atenainsurance.model.Address;
+import com.bcj.atenainsurance.model.Member;
+
+
+public class AtenaDao {
+	
+	public Member getMember(int id) {
+		Session session = HibernateUtil.getSessionFactory().openSession();
+		Transaction  transaction = session.beginTransaction();
+		Member mem = (Member) session.load(Member.class, new Integer(id));
+		System.out.println(mem);
+		transaction.commit();
+		session.close();
+		return mem;
+	
+	}
+	public int createMember(Member mem) {
+		System.out.println(mem);
+		Address add=mem.getAddress();
+		Session session = HibernateUtil.getSessionFactory().openSession();
+		Transaction  transaction = session.beginTransaction();
+		session.saveOrUpdate(mem);
+		session.saveOrUpdate(add);
+		transaction.commit();
+		int id=mem.getId();
+		session.close();
+		return id;
+	}
+}

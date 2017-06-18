@@ -1,0 +1,9 @@
+package com.bcj.corejava.oops.classes.medium.lab4
+;
+
+public class Student {
+	private studentName;
+	private  branchName;
+	
+
+}

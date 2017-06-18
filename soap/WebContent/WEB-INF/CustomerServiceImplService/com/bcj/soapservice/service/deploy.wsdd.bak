@@ -1,0 +1,156 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from CustomerServiceImplService WSDL service -->
+
+  <service name="CustomerServiceImpl" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://service.soapservice.bcj.com"/>
+      <parameter name="wsdlServiceElement" value="CustomerServiceImplService"/>
+      <parameter name="schemaQualified" value="http://model.soapservice.bcj.com,http://service.soapservice.bcj.com"/>
+      <parameter name="wsdlServicePort" value="CustomerServiceImpl"/>
+      <parameter name="className" value="com.bcj.soapservice.service.CustomerServiceImplSoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="CustomerServiceImpl"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="add" qname="operNS:add" xmlns:operNS="http://service.soapservice.bcj.com" returnQName="retNS:addReturn" xmlns:retNS="http://service.soapservice.bcj.com" returnType="rtns:int" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:a" xmlns:pns="http://service.soapservice.bcj.com" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+        <parameter qname="pns:b" xmlns:pns="http://service.soapservice.bcj.com" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="createCustomer" qname="operNS:createCustomer" xmlns:operNS="http://service.soapservice.bcj.com" returnQName="retNS:createCustomerReturn" xmlns:retNS="http://service.soapservice.bcj.com" returnType="rtns:boolean" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:cust" xmlns:pns="http://service.soapservice.bcj.com" type="tns:Customer" xmlns:tns="http://model.soapservice.bcj.com"/>
+      </operation>
+      <operation name="getCustomer" qname="operNS:getCustomer" xmlns:operNS="http://service.soapservice.bcj.com" returnQName="retNS:getCustomerReturn" xmlns:retNS="http://service.soapservice.bcj.com" returnType="rtns:Customer" xmlns:rtns="http://model.soapservice.bcj.com" soapAction="" >
+        <parameter qname="pns:id" xmlns:pns="http://service.soapservice.bcj.com" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="deleteCustomer" qname="operNS:deleteCustomer" xmlns:operNS="http://service.soapservice.bcj.com" returnQName="retNS:deleteCustomerReturn" xmlns:retNS="http://service.soapservice.bcj.com" returnType="rtns:boolean" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:id" xmlns:pns="http://service.soapservice.bcj.com" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="updateCustomer" qname="operNS:updateCustomer" xmlns:operNS="http://service.soapservice.bcj.com" returnQName="retNS:updateCustomerReturn" xmlns:retNS="http://service.soapservice.bcj.com" returnType="rtns:boolean" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:id" xmlns:pns="http://service.soapservice.bcj.com" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+        <parameter qname="pns:cust" xmlns:pns="http://service.soapservice.bcj.com" type="tns:Customer" xmlns:tns="http://model.soapservice.bcj.com"/>
+      </operation>
+      <operation name="getListOfCustomers" qname="operNS:getListOfCustomers" xmlns:operNS="http://service.soapservice.bcj.com" returnQName="retNS:getListOfCustomersReturn" xmlns:retNS="http://service.soapservice.bcj.com" returnType="rtns:ArrayOf_xsd_anyType" xmlns:rtns="http://service.soapservice.bcj.com" returnItemQName="tns:item" xmlns:tns="http://service.soapservice.bcj.com" soapAction="" >
+      </operation>
+      <parameter name="allowedMethods" value="add createCustomer getListOfCustomers updateCustomer deleteCustomer getCustomer"/>
+
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>createCustomer"
+        type="java:com.bcj.soapservice.service.CreateCustomer"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>deleteCustomerResponse"
+        type="java:com.bcj.soapservice.service.DeleteCustomerResponse"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>add"
+        type="java:com.bcj.soapservice.service.Add"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>getCustomerResponse"
+        type="java:com.bcj.soapservice.service.GetCustomerResponse"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>updateCustomerResponse"
+        type="java:com.bcj.soapservice.service.UpdateCustomerResponse"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>getCustomer"
+        type="java:com.bcj.soapservice.service.GetCustomer"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>getListOfCustomers"
+        type="java:com.bcj.soapservice.service.GetListOfCustomers"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://model.soapservice.bcj.com"
+        qname="ns:Customer"
+        type="java:com.bcj.soapservice.model.Customer"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <arrayMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:ArrayOf_xsd_anyType"
+        type="java:java.lang.Object[]"
+        innerType="cmp-ns:anyType" xmlns:cmp-ns="http://www.w3.org/2001/XMLSchema"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>addResponse"
+        type="java:com.bcj.soapservice.service.AddResponse"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>deleteCustomer"
+        type="java:com.bcj.soapservice.service.DeleteCustomer"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>getListOfCustomersResponse"
+        type="java:com.bcj.soapservice.service.GetListOfCustomersResponse"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>updateCustomer"
+        type="java:com.bcj.soapservice.service.UpdateCustomer"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://service.soapservice.bcj.com"
+        qname="ns:>createCustomerResponse"
+        type="java:com.bcj.soapservice.service.CreateCustomerResponse"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+  </service>
+</deployment>

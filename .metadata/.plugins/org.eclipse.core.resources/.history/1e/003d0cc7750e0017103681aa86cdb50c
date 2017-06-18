@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+import com.bcj.ArrayList.Student;
+
+public class Customer {
+	
+	String firstName;
+	 String lastName;
+	int age;
+	@Override
+	public String toString() {
+		return "Customer [firstName=" + firstName + ", lastName=" + lastName + ", age=" + age + "]";
+	}
+	
+  Customer(String firstName ,String lastName,int age){  
+		this.firstName=firstName;  
+		this.lastName=lastName;  
+		this.age=age;  
+		}
+
+
+	
+
+}
