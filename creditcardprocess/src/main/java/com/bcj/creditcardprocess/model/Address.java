@@ -8,6 +8,13 @@ import javax.persistence.Id;
 @Entity
 public class Address {
 
+	
+	// this is enitity class
+	
+	
+	
+	
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
