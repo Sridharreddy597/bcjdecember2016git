@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<style>
+div{
+ margin-top: 110px;
+ align: center;
+ 
+ 
+}
+table, th, td {
+  background-color:#DEB887;
+}
+
+
+</style>
+<title>payment</title>
+</head>
+<body>
+	<div>
+		<form action="PaymentServlet" method="POST">
+			<table align = center>
+
+				<tr>
+					<th>
+						<h2>Payment Information</h2>
+					</th>
+				</tr>
+				<tr></tr>
+				<tr>
+					<td align='center'>
+
+						<h2>Card details</h2>
+					</td>
+				</tr>
+
+				<tr>
+					<td><strong>Name on card </strong></td>
+					<td><strong> :</strong></td>
+
+
+					<td><input type="text" name="nameOnCard"></td>
+				</tr>
+				<tr>
+					<td><strong>Card Number </strong></td>
+					<td><strong> :</strong></td>
+
+					<td><input type="text" name="cardNumber"></td>
+
+				</tr>
+
+				<tr>
+					<td><strong>CVV </strong></td>
+					<td><strong> :</strong></td>
+
+					<td><input type="text" name="cvv"></td>
+
+				</tr>
+				<tr>
+					<td><strong>Amount </strong></td>
+					<td><strong> :</strong></td>
+
+					<td><input type="text" name="amount"></td>
+
+
+				</tr>
+				<tr>
+					<td><input type="submit" value="submit"></td>
+				</tr>
+
+			</table>
+		</form>
+	</div>
+</body>
+</html>

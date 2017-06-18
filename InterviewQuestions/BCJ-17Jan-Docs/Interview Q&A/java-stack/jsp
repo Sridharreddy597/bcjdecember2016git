@@ -1,0 +1,128 @@
+
+
+ 1. What is JSP ?
+        JSP technology is used to create web application just like Servlet technology. It can be thought of as an
+		extension to servlet because it provides more functionality than servlet such as expression language, jstl etc.
+		Jsp tags are written in html tags. The jsp pages are easier to maintain than servlet because we can separate 
+		designing and development. In MVC architecture jsp represents view. 
+
+		
+ 2. What are advantages of Jsp ?
+        There are many advantages of JSP over servlet.They are as follows
+		  1. Extension to servlet: 
+		        JSP technology is the extension to servlet technology. We can use all the features of servlet in JSP.
+				In addition to, we can use implicit objects, predefined tags, expression language and Custom tags in JSP, 
+				that makes JSP development easy.
+          2. Easy to maintain : 
+                JSP can be easily managed because we can easily separate our business logic with presentation logic. 
+				In servlet technology, we mix our business logic with the presentation logic.
+          3. Fast Development:
+        	    No need to recompile and redeploy.If JSP page is modified, we don't need to recompile and redeploy the
+				project. The servlet code needs to be updated and recompiled if we have to change the look and feel of the application.
+         4.  Less code than Servlet :
+                In JSP, we can use a lot of tags such as action tags, jstl, custom tags etc. that reduces the code. Moreover,
+				we can use EL, implicit objects etc.
+				
+				
+ 3. Life cycle of JSP ?
+        The JSP pages follows these phases:
+            1. Translation of JSP Page
+            2. Compilation of JSP Page (after this stage it follows life cycle of servlet)
+            3. Classloading (class file is loaded by the classloader)
+            4. Instantiation (Object of the Generated Servlet is created).
+            5. Initialization ( jspInit() method is invoked by the container).
+            6. Reqeust processing ( _jspService() method is invoked by the container).
+            7. Destroy ( jspDestroy() method is invoked by the container). 
+			
+			
+ 4. What are scripting elements ?
+        The scripting elements provides the ability to insert java code inside the jsp. There are three types of scripting elements:
+            1. scriptlet tag
+            2. expression tag
+            3. declaration tag  
+		Scriptlet tag : A scriptlet tag is used to execute java source code in JSP. Code written in this tag goes into service method
+		       of auto generated Servlet. The jsp scriptlet tag can only declare variables not methods.
+		       Syntax is as follows:	
+			             <%  java source code %>  
+        Expression tag : The code placed within JSP expression tag is written to the output stream of the response. So you need not
+      		write out.print() to write data. It is mainly used to print the values of variable or method. 								 
+				Syntax is as follows :
+                          <%=  statement %>  
+        Declaration tag :  is used to declare fields and methods. The code written inside the jsp declaration tag is placed outside 
+		    the service() method of auto generated servlet. So it doesn't get memory at each request. The variable declared in this
+            tag are like instance variable.
+                Syntax is as follows :
+                           <%!  field or method declaration %>  	
+
+ 5. List the implicit objects ? 
+        There are 9 jsp implicit objects. These objects are created by the web container that are available to all the jsp pages.
+             1. out - For writing any data to the buffer, JSP provides an implicit object named out.
+             2. Request - JSP request is an implicit object of type HttpServletRequest.
+             3. Responce - JSP response is an implicit object of type HttpServletResponse.
+             4. config -  JSP config is an implicit object of type ServletConfig.
+             5. application - JSP application is an implicit object of type ServletContext.
+             6. session - JSP session is an implicit object of type HttpSession.
+             7. page - JSP page is an implicit object of type Object class.
+             8. pageContext - JSP pageContext is an implicit object of type PageContext class.
+             9. exception - for Throwable.
+
+ 6. What are different directives ? 	
+        The jsp directives are messages that tells the web container how to translate a JSP page into the corresponding servlet.
+        There are three types of directives:
+              •	page directive
+              •	include directive
+              •	taglib directive
+        JSP page directive : The page directive defines attributes that apply to an entire JSP page.
+		    like : import , contentType, extends etc.
+			 syntax : <%@ page attribute="value" %>  
+			 
+        Jsp Include Directive : The include directive is used to include the contents of any resource it may be jsp file, html file 
+		    or text file. The include directive includes the original content of the included resource at page translation time 
+			(the jsp page is translated only once so it will be better to include static resource).
+			 advantage of using include directive is code reusability.
+			  syntax : <%@ include file="resourceName" %> 
+			  
+        JSP Taglib directive : The JSP taglib directive is used to define a tag library that defines many tags. We use the TLD 
+		    (Tag Library Descriptor) file to define the tags. 
+              syntax : <%@ taglib uri="uriofthetaglibrary" prefix="prefixoftaglibrary" %>  
+
+ 7. What are Action elements ?
+        The action tags are used to control the flow between pages and to use Java Bean. The Jsp action tags are given below.
+		
+		                     JSP Action                  Tags Description
+                            jsp:forward         forwards the request and response to another resource.
+                            jsp:include        	includes another resource.
+                            jsp:useBean	        creates or locates bean object.
+                            jsp:setProperty	    sets the value of property in bean object.
+                            jsp:getProperty  	prints the value of property of the bean.
+                            jsp:plugin       	embeds another components such as applet.
+                            jsp:param	        sets the parameter value. It is used in forward and include mostly.
+                            jsp:fallback	    can be used to print the message if plugin is working. It is used in jsp:plugin.
+							
+							
+ 8. What is JSTL and which tags you have used ?			
+        JSP Standard Tag Library (JSTL) represents a set of tags to simplify the JSP development.
+	    Advantage of JSTL : 
+             Fast Development JSTL provides many tags that simplifies the JSP.
+             Code Reusability We can use the JSTL tags in various pages.
+             No need to use scriptlet tag It avoids the use of scriptlet tag.
+			 
+        There JSTL mainly provides 5 types of tags:
+		     
+		       Tag Name	                  Description
+		     
+		      Core tags       	The JSTL core tag provide variable support, URL management, flow control etc. The url for the core 
+			                      tag is http://java.sun.com/jsp/jstl/core . The prefix of core tag is c.
+              Function tags	    The functions tags provide support for string manipulation and string length. The url for the functions
+                     			  tags is http://java.sun.com/jsp/jstl/functions and prefix is fn.
+              Formatting tags	The Formatting tags provide support for message formatting, number and date formatting etc. The url for 
+			                      the Formatting tags is http://java.sun.com/jsp/jstl/fmt and prefix is fmt.
+              XML tags	        The xml sql tags provide flow control, transformation etc. The url for the xml tags 
+			                      is http://java.sun.com/jsp/jstl/xml and prefix is x.
+              SQL tags	        The JSTL sql tags provide SQL support. The url for the sql tags is http://java.sun.com/jsp/jstl/sql 
+			                       and prefix is sql.  
+		 
+
+
+
+			

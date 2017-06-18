@@ -1,0 +1,8 @@
+..resources
+.metadata
+.recommenders
+.project
+*/.project
+.svn
+*/.svn
+RemoteSystemsTempFiles
