@@ -1,0 +1,29 @@
+package com.bcj.praticeproblems;
+
+import java.time.LocalDate;
+
+public class DateAndTime {
+	public static void main(String[] args) {
+		
+		String month="02";
+		String day="12";
+		String year="2012";
+		
+		LocalDate localDate2 = LocalDate.of(2015, 12, 31);
+		System.out.println(ld.getDayOfMonth());
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+
+}

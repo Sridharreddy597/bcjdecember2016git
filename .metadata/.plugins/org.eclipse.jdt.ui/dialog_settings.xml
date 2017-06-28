@@ -4,7 +4,7 @@
 	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="true" key="ProjectSelectionDialog.show_all"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
-	<item value="C:\BCJ_DEC_2016\Development_Tools\jars\hibernate-distribution-3.6.4.Final\lib\bytecode\javassist" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="C:\Users\sridhar\Downloads" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
 	<item value="filter_imports;" key="filters_last_used"/>
 	<item value="C:\BCJ_DEC_2016\workspace\CoreJava\soapspring\.settings\src\main" key="org.eclipse.jdt.ui.last.external.project"/>
@@ -195,6 +195,6 @@
 		</section>
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item value="2" key="pageIndex"/>
+		<item value="3" key="pageIndex"/>
 	</section>
 </section>

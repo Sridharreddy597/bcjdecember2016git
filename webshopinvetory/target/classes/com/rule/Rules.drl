@@ -1,0 +1,16 @@
+package com.rule
+
+import com.bcj.webinventory.model.Order
+import java.util.Random;
+
+rule "If product id is null"
+	when 
+		orderObject: Order(orderId==null)
+	then
+		Random count = new Random();
+
+		int number = count.nextInt((9998 - 100) + 1) + 1000;
+		String orderID = number + "";
+		
+		orderObject.setOrderId(orderID);
+	end

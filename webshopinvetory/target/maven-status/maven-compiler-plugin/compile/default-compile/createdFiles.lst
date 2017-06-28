@@ -1,0 +1,5 @@
+com\bcj\webinventory\model\Order.class
+com\bcj\webinventory\service\OrderReceiver.class
+com\bcj\webinventory\dao\InventoryDao.class
+com\bcj\webinventory\service\InventoryService.class
+com\bcj\webinventory\main\Consumer.class

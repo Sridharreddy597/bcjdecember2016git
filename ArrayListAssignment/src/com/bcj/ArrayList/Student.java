@@ -56,4 +56,11 @@ public class Student {
 	}
 
 	private String grades;
+
+	@Override
+	public String toString() {
+		return "Student [StudentID=" + StudentID + ", firstName=" + firstName + ", lastName=" + lastName + ", email="
+				+ email + ", age=" + age + ", grades=" + grades + "]";
+	}
+	
 }

@@ -1,4 +1,4 @@
-package com.joker.sridhar.lab4;
+package com.bcj.corejava.oops.classes.simple.src.com.joker.sridhar.lab4;
 
 class DemoStudent {
 

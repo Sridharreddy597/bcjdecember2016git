@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\BCJ_DEC_2016\workspace\CoreJava"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\Webshop"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\wso2-synapse-master"/>
+		<item value="C:\BCJ_DEC_2016\Downloads\wso2esb-5.0.0\samples"/>
+		<item value="C:\Users\sridhar\Downloads\RestHibernate"/>
+		<item value="C:\Users\sridhar\Downloads"/>
+		<item value="C:\BCJ_DEC_2016\sample projects"/>
 		<item value="C:\BCJ_DEC_2016\workspace\CoreJava\psbbussinessparks"/>
 		<item value="C:\BCJ_DEC_2016\workspace\CoreJava\psbbussinessparks\psbbussinessparks"/>
 		<item value="C:\BCJ_DEC_2016\workspace\CoreJava\customercrud"/>

@@ -16,9 +16,18 @@ public class Customer implements Serializable {
 	private int id ;
 	private String firstName;
 	private String lastName;
+	private String application;
 	
 	
 	
+	public String getApplication() {
+		return application;
+	}
+
+	public void setApplication(String application) {
+		this.application = application;
+	}
+
 	public int getId() {
 		return id;
 	}

@@ -71,6 +71,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="JMSExample"/>
 			<item value="creditcardprocess"/>
 			<item value="cronjob"/>
 			<item value="creditcard"/>

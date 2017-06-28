@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\BCJ_DEC_2016\\workspace\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\BCJ_DEC_2016\\workspace\\.git;
+GitRepositoriesView.GitDirectories=C\:\\BCJ_DEC_2016\\workspace\\CoreJava\\.git;C\:\\BCJ_DEC_2016\\workspace\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\BCJ_DEC_2016\\workspace\\.git;
 RepositorySearchDialogSearchPath=C\:\\Users\\Bootcamp User 005
 core_autoIgnoreDerivedResources=false
 core_defaultRepositoryDir=C\:\\BCJ_DEC_2016\\workspace\\CoreJava

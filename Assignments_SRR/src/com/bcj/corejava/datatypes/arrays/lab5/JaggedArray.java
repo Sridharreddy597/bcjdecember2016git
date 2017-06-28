@@ -1,16 +1,15 @@
 package com.bcj.corejava.datatypes.arrays.lab5;
 
 /**
- * @author Bootcamp User 005
- * this class is defined to store the elements in the two dimensional array
- * and print the courses taken specific person
+ * @author Bootcamp User 005 this class is defined to store the elements in the
+ *         two dimensional array and print the courses taken specific person
  *
  */
 public class JaggedArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-      // Initialization of 2D array; 
+		// Initialization of 2D array;
 		String[][] studentCourses = { { "Student Name", "Tutorial 1", "Tutorial 2", "Tutorial 3" },
 				{ "Tony", "JAVA", "C", "C++" }, { "Thomas", "JAVA", "UNIX", null },
 				{ "Dinil", "Linux", "Oracle", null }, { "Delvin", "RDBMS", "C#", "ORACLE", null } };
