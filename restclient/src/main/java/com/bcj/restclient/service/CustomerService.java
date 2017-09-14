@@ -23,7 +23,7 @@ public class CustomerService {
 		try {
 
 			Client client = Client.create();
-			WebResource webResource = client.resource("http://192.168.0.55:8280/services/restexamplewso2/create");
+			WebResource webResource = client.resource("http://localhost:8080/restexample/customer/create");
 			ObjectMapper mapper = new ObjectMapper();
 			ClientResponse response = webResource.type(MediaType.APPLICATION_JSON_TYPE).post(ClientResponse.class, mapper.writeValueAsString(cust));
 			System.out.println("Output from Server .... \n");
@@ -47,10 +47,8 @@ public class CustomerService {
 		 customer = webResource.path(id)
 		            .accept(MediaType.APPLICATION_JSON_TYPE)
 		                .get(Customer.class);
-		       // System.out.println(customer.getLastName() + ", "+ customer.getFirstName());
+		       //System.out.println(customer.getLastName() + ", "+ customer.getFirstName());
 		        
-			
-			
 			return customer;
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -66,7 +64,7 @@ public class CustomerService {
 	
 		try {
 			Client client = Client.create();
-			WebResource webResource = client.resource("http://localhost:8080/restexample/customer/update/"+id);
+			WebResource webResource = client.resource("http://localhost:8080/restexample/customer/getall"+id);
 			ObjectMapper mapper = new ObjectMapper();
 			ClientResponse response = webResource.type(MediaType.APPLICATION_JSON_TYPE).put(ClientResponse.class, mapper.writeValueAsString(cust));
 			System.out.println("Output from Server .... \n");
@@ -85,10 +83,9 @@ public class CustomerService {
 
 	public String deleteCustomer(String id) {
 	
-		
 		try {
 			Client client = Client.create();
-			WebResource webResource = client.resource("http://192.168.0.55:8280/services/restexamplewso2/delete/");
+			WebResource webResource = client.resource("http://localhost:8080");
 			
 			System.out.println("Output from Server .... \n");
 		 String str = webResource.path(id)

@@ -44,11 +44,11 @@ public class MessageSender{
 		this.destination = destination;
 	}*/
 
-	public void sendMessage(final String productName) {
-		System.out.println("Producer sends " + productName);
+	public void sendMessage(final Order order) {
+		System.out.println("Producer sends " + order.getProductName());
 		jmsTemplate.send(messageDestination, new MessageCreator() {
 			public Message createMessage(Session session) throws JMSException {
-				TextMessage objectMessage = session.createTextMessage(productName);
+				ObjectMessage objectMessage = session.createObjectMessage(order);
 				return objectMessage;
 			}
 		});

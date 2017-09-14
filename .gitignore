@@ -1,0 +1,15 @@
+..resources
+.metadata
+.recommenders
+.project
+*/.project
+.svn
+*/.svn
+RemoteSystemsTempFiles
+.metadata/*
+.recommenders/*
+*/.settings
+*/target/*
+*/bin
+*/.tern-project
+*/target

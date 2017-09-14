@@ -10,6 +10,13 @@
 		<item value="git://github.com/Sridharreddy597/bcjdecember2016.git"/>
 		<item value="https://github.com/Sridharreddy597/bcjdecember2016.git"/>
 	</list>
+	<section name="org.eclipse.egit.ui.COMMIT_DIALOG_SECTION">
+		<item value="642" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="DIALOG_HEIGHT"/>
+		<item value="-55" key="DIALOG_X_ORIGIN"/>
+		<item value="-116" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="C:\BCJ_DEC_2016\workspace\CoreJava\bcjdecember2016\.git">
 			<item value="empty"/>

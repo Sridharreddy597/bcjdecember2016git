@@ -3,6 +3,7 @@
 	<item value="false" key="J2EE_EXPORT_OVERWRITE"/>
 	<item value="false" key="J2EE_EXPORT_SOURCE"/>
 	<list key="MRU_RUNTIME_STORE">
+		<item value="GlassFish 4"/>
 		<item value="Apache Tomcat v8.5"/>
 		<item value="Oracle WebLogic Server 12c R2 (12.2.1.1)"/>
 		<item value="Apache Tomcat v8.0"/>

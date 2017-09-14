@@ -18,6 +18,7 @@
 	<item value="0" key="passwordStores.location.x"/>
 	<item value="102" key="CommitDialog.location.x"/>
 	<item value="333" key="HistoryDialog.weights.2"/>
+	<item value="" key="DirectorySelectionPage.lastParent_https://bootcamp-server/svn/bcjDecember2016"/>
 	<item value="333" key="HistoryDialog.weights.1"/>
 	<item value="500" key="CommitDialog.weights.0"/>
 	<item value="500" key="CommitDialog.weights.1"/>
@@ -26,6 +27,7 @@
 	<item value="193" key="HistoryTableProvider.SVNHistoryPage.Date"/>
 	<item value="1163" key="CommitDialog.size.x"/>
 	<item value="154" key="HistoryTableProvider.SVNHistoryPage.Author"/>
+	<item value="https://bootcamp-server/svn/bcjDecember2016" key="RepositorySelectionPage.lastRepository"/>
 	<item value="400" key="HistoryDialog.size.x"/>
 	<item value="400" key="HistoryDialog.size.y"/>
 	<item value="174" key="HistoryTableProvider.HistoryDialog.Comment"/>

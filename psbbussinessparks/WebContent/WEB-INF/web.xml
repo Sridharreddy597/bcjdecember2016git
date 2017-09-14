@@ -37,6 +37,21 @@
 <servlet-name>PaymentServlet</servlet-name>  
 <url-pattern>/PaymentServlet</url-pattern>  
 </servlet-mapping>  
+ <security-constraint>
+<web-resource-collection>
+<web-resource-name>resource1</web-resource-name>
+<url-pattern>/RegistrationServlet</url-pattern>
+<http-method>
+POST</http-method>
+</web-resource-collection>
+<auth-constraint>
+<role-name>
+customer</role-name></auth-constraint>
+</security-constraint>
+<login-config>
+<auth-method>
+Basic</auth-method></login-config>
+
 
 
 </web-app>

@@ -1,5 +1,8 @@
-com\bcj\hibernate\FourWheeler.class
 com\bcj\hibernate\Vechicle.class
-com\bcj\hibernate\HibernateDemo.class
+META-INF\MANIFEST.MF
 com\bcj\hibernate\TwoWheeler.class
+META-INF\maven\com.bcj\hibernate\pom.properties
+com\bcj\hibernate\FourWheeler.class
+com\bcj\hibernate\HibernateDemo.class
+META-INF\maven\com.bcj\hibernate\pom.xml
 com\bcj\hibernate\UserDetails.class

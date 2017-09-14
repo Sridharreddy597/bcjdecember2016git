@@ -42,6 +42,10 @@ public class OrderReceiver implements MessageListener {
 		}
 	}
 
+ 
+
+	
+	@Override
 	public void onMessage(Message message) {
 		
 		InventoryService iser = new InventoryService();

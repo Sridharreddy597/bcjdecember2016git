@@ -11,7 +11,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
-@XmlRootElement(name = "/customer")
+@XmlRootElement(name = "customer")
 @JsonIgnoreProperties({ "hibernateLazyInitializer", "handler" })
 public class Customer implements Serializable {
 

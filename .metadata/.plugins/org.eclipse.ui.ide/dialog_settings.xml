@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\BCJ_DEC_2016\sample projects\NatureStore"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\SpringMongoDB-HelloWorld-Example"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\HibernateOneToManyMapping"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\Struts2Exampleandlib17"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\Struts2Example"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\Struts2Hibernate"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\firststruts"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\Struts2XMLHelloWorld\Struts2XMLHelloWorld"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\HQLExample"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\teksystemcode\teksystemcode"/>
+		<item value="C:\BCJ_DEC_2016\sample projects\teksystemcode"/>
 		<item value="C:\BCJ_DEC_2016\workspace\CoreJava"/>
 		<item value="C:\BCJ_DEC_2016\sample projects\Webshop"/>
 		<item value="C:\BCJ_DEC_2016\sample projects\wso2-synapse-master"/>
@@ -67,6 +78,10 @@
 		<item value="Aggregate for window 1486148654713" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
 		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
 		<item value="false" key="LINK_NAVIGATOR_TO_EDITOR"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
 	</section>
 	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
 		<item value="C:\BCJ_DEC_2016\workspace\CoreJava\Assignments_SRR\src\com\bcj\corejava\oops\classes\simple" key="OUTSIDE_LOCATION"/>

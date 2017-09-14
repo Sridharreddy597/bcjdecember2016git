@@ -42,6 +42,9 @@
 	background-color: #40bf40;
 	color: black;
 }
+.account-box .btn:hover {
+	color: #fff;
+}
 
 .or-box {
 	position: relative;
@@ -60,9 +63,7 @@
 	left: 90px;
 }
 
-.account-box .btn:hover {
-	color: #fff;
-}
+
 
 .btn-facebook {
 	background-color: #3F639E;

@@ -34,7 +34,7 @@ public class AppController {
 		
 		String productName= order.getProductName();
 		
-		if(orderservice.sendOrder(productName)){
+		if(orderservice.sendOrder(order)){
 			return "orderSucess";
 		}
 		else{

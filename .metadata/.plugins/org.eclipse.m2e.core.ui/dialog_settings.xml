@@ -38,7 +38,7 @@
 		<item value="531" key="height"/>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item value="All Catalogs" key="catalog"/>
+		<item value="internal" key="catalog"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -71,6 +71,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="HealthEjb"/>
 			<item value="JMSExample"/>
 			<item value="creditcardprocess"/>
 			<item value="cronjob"/>
@@ -110,21 +111,21 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\DmvPublicRecords\src\main\java\com\bcj\DmvPublicRecords\App.java"/>
+			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\restexample\pom.xml"/>
+			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\designpatterns\src\com\bcj\javacertification\date\DateFormatter.java"/>
+			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\spring-data-mongodb\src\main\java"/>
+			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\SpringRESTMongoDb\pom.xml"/>
+			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\restexamplespringboot"/>
+			<item value="C:\BCJ_DEC_2016\sample projects\HQLExample"/>
+			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\PropertiesFileAndUtilClassUsage"/>
+			<item value="C:\BCJ_DEC_2016\workspace\CoreJava"/>
 			<item value="C:\BCJ_DEC_2016\sample projects\restexample\src\main\java\com\bcj\restexample\service\CustomerServiceImpl.java"/>
 			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\restexample\src\main\java\com\bcj\restexample"/>
 			<item value="C:\BCJ_DEC_2016\sample projects\spring-restful-service\src\main\java\com\bytestree\restful\Application.java"/>
 			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\atenainsurance\src\main\webapp\WEB-INF\cxf-servlet.xml"/>
 			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\atenainsurance"/>
 			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\practiceproblems\src\practiceproblems\AnagramDemo.java"/>
-			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\Assignments_SRR\src\com\bcj\corejava\oops\classes\simple"/>
-			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\soap"/>
-			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\Servers"/>
-			<item value="C:\BCJ_DEC_2016\sample projects\RestHibernate"/>
-			<item value="C:\Users\Bootcamp User 005\Downloads\DemoResyFull\DemoResyFull\src\main\java\com\bcj\rest\DemoResyFull\MyResource.java"/>
-			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\creditcardprocess\pom.xml"/>
-			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\citibank\src\main\java\com\bcj\creditcard\dao\RegistrationDao.java"/>
-			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\citibank\src\main\java\com\bcj\creditcard\model\Customer.java"/>
-			<item value="C:\BCJ_DEC_2016\workspace\CoreJava\citibank\src\main\webapp\WEB-INF\spring-servlet.xml"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -137,13 +138,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.bcj.restclient"/>
+			<item value="com.bcj.insurance_application"/>
+			<item value="com.bcj.CustomerServer"/>
 		</list>
 		<list key="groupId">
 			<item value="com.bcj"/>
 		</list>
 		<list key="artifactId">
-			<item value="restclient"/>
+			<item value="insurance-application"/>
+			<item value="Customer-Server"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

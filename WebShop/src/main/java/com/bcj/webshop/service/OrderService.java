@@ -6,6 +6,7 @@ package com.bcj.webshop.service;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.bcj.webshop.messaging.MessageSender;
+import com.bcj.webshop.model.Order;
 
 /**
  * @author 
@@ -26,14 +27,14 @@ public class OrderService {
 		return orderID;
 	}*/
 
-	public boolean sendOrder(String productName) {
+	public boolean sendOrder(Order order) {
 
 		/*OrderService serv = new OrderService();*/
 		/*order.setOrderId(serv.generateOrderID());*/
 
 		try {
-			messageSender.sendMessage(productName);
-			System.out.println(productName);
+			messageSender.sendMessage(order);
+			//System.out.println(productName);
 			return true;
 		} catch (Exception exp) {
 			return false;
