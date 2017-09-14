@@ -42,9 +42,12 @@
 	background-color: #40bf40;
 	color: black;
 }
+<<<<<<< HEAD
 .account-box .btn:hover {
 	color: #fff;
 }
+=======
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 
 .or-box {
 	position: relative;
@@ -63,7 +66,13 @@
 	left: 90px;
 }
 
+<<<<<<< HEAD
 
+=======
+.account-box .btn:hover {
+	color: #fff;
+}
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 
 .btn-facebook {
 	background-color: #3F639E;

@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.bcj.hibernate.AppTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.021 sec
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971

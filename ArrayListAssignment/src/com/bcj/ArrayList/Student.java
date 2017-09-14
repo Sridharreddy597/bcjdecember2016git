@@ -56,6 +56,7 @@ public class Student {
 	}
 
 	private String grades;
+<<<<<<< HEAD
 
 	@Override
 	public String toString() {
@@ -63,4 +64,6 @@ public class Student {
 				+ email + ", age=" + age + ", grades=" + grades + "]";
 	}
 	
+=======
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 }

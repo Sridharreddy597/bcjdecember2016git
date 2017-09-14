@@ -25,8 +25,15 @@
 	</target>
 
 	<target name="compile" depends="init" >
+<<<<<<< HEAD
 		<javac destdir="build/classes" debug="true" srcdir="src">
 			<classpath refid="compile.classpath"/>
+=======
+
+		<javac destdir="build/classes" debug="true" srcdir="src">
+			<classpath refid="compile.classpath"/>
+
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 		</javac>
 	</target>
 

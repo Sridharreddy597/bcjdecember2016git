@@ -1,5 +1,12 @@
 com\bcj\restspringboot\controller\CustomerController.class
+<<<<<<< HEAD
 com\bcj\restspringboot\model\Customer.class
 com\bcj\restspringboot\service\CustomerServiceImpl.class
 com\bcj\restspringboot\dao\CustomerDao.class
 com\bcj\restspringboot\Application.class
+=======
+com\bcj\restspringboot\Application.class
+com\bcj\restspringboot\model\Customer.class
+com\bcj\restspringboot\service\CustomerServiceImpl.class
+com\bcj\restspringboot\dao\CustomerDao.class
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971

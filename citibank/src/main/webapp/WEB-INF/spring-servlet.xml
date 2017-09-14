@@ -18,7 +18,11 @@
   
     
 
+<<<<<<< HEAD
 <!-- <mvc:annotation-driven />  -->
+=======
+<mvc:annotation-driven /> 
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
  <context:component-scan base-package = "com.bcj.creditcard" />
 
    <bean class = "org.springframework.web.servlet.view.InternalResourceViewResolver">
@@ -31,18 +35,31 @@
   <bean id="rcontroller" class="com.bcj.creditcard.RegistrationController">
 		<property name="sessionFactory" ref="sessionFactory" />
 	</bean> -->
+<<<<<<< HEAD
   
  <!-- <bean id="rs" class="com.bcj.creditcard.service.RegistrationService">		
 		<property name="rDao" ref="sessionFactory" />
 	</bean>
+=======
+ 
+  
+  
+ <bean id="rs" class="com.bcj.creditcard.service.RegistrationService"/>		
+	
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
  
  
  
  <bean id="rDao" class = "com.bcj.creditcard.dao.RegistrationDao"/>
  
  
+<<<<<<< HEAD
  <bean id="rc" class = "com.bcj.creditcard.RegistrationController"/>
   -->
+=======
+ <!-- <bean id="rc" class = "com.bcj.creditcard.RegistrationController"/> -->
+ 
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
  
  
    <tx:annotation-driven transaction-manager="transactionManager" />
@@ -58,9 +75,15 @@
 		destroy-method="close">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url"
+<<<<<<< HEAD
 			value="jdbc:mysql://springboot.cn1l6ojtgwrt.us-east-1.rds.amazonaws.com/springboot" />
 		<property name="username" value="Sridhar" />
 		<property name="password" value="Sridhar1994" />
+=======
+			value="jdbc:mysql://localhost:3306/citibank" />
+		<property name="username" value="root" />
+		<property name="password" value="root" />
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 	</bean>
 
 
@@ -75,13 +98,22 @@
 				<value>com.bcj.creditcard.model.Customer</value>
 				<value>com.bcj.creditcard.model.Register</value>
 				<value>com.bcj.creditcard.model.CreditCard</value>
+<<<<<<< HEAD
+=======
+
+				
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 			</list> 
 		</property>
 		<property name="hibernateProperties">
 			<props>
 				<prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect
 				</prop>
+<<<<<<< HEAD
 				<prop key="hibernate.hbm2ddl.auto">create
+=======
+				<prop key="hibernate.hbm2ddl.auto">update
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 				</prop>
 				<prop key="hibernate.show_sql">true</prop>
 			</props>

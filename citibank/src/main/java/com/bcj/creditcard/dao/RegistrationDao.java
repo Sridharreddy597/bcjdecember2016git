@@ -82,4 +82,8 @@ public class RegistrationDao {
 System.out.println(user.getUserName()+"  "+user.getPassword());
 		return user;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971

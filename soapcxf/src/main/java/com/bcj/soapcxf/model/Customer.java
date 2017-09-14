@@ -16,6 +16,7 @@ public class Customer implements Serializable {
 	private int id ;
 	private String firstName;
 	private String lastName;
+<<<<<<< HEAD
 	private String application;
 	
 	
@@ -28,6 +29,11 @@ public class Customer implements Serializable {
 		this.application = application;
 	}
 
+=======
+	
+	
+	
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 	public int getId() {
 		return id;
 	}

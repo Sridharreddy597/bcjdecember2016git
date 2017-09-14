@@ -38,7 +38,11 @@ public class Member implements Serializable {
 	public int getId() {
 		return id;
 	}
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 	
 	public String getFirstName() {
 		return firstName;

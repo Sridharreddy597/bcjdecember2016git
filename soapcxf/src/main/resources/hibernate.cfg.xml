@@ -13,6 +13,10 @@
         <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property> 
         <property name="show_sql">true</property> 
         <property name="hibernate.id.new_generator_mappings">false</property>
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
     <mapping class="com.bcj.soapcxf.model.Customer"/>  
   </session-factory>
   

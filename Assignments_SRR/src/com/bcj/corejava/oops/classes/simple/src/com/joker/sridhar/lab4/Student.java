@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.joker.sridhar.lab4;
+=======
+package com.bcj.corejava.oops.classes.simple.src.com.joker.sridhar.lab4;
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 
 /**
  * @author Bootcamp User 005

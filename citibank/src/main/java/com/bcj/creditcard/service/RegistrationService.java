@@ -47,6 +47,10 @@ public class RegistrationService {
 		if (ccard != null && ccard.getStatus().equals("inactive")) {
 			register.getCreditcard().setStatus("activated");
 			rDao.updateCreditCard(register);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 			return 1;
 		} else if (ccard != null && ccard.getStatus().equals("activated")) {
 			return 2;

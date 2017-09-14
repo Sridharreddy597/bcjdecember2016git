@@ -10,7 +10,10 @@
   <properties>
        <cxf.version>3.1.11</cxf.version>
 </properties>
+<<<<<<< HEAD
 <!-- https://mvnrepository.com/artifact/javax.persistence/persistence-api -->
+=======
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 
   <dependencies>
     <dependency>
@@ -80,6 +83,7 @@
         	<artifactId>spring-tx</artifactId>
         	<version>4.3.7.RELEASE</version>
         </dependency>
+<<<<<<< HEAD
         
         <!-- https://mvnrepository.com/artifact/javax.persistence/persistence-api -->
 <dependency>
@@ -88,6 +92,8 @@
     <version>1.0</version>
 </dependency>
         
+=======
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
         <dependency>
         	<groupId>org.springframework</groupId>
         	<artifactId>spring-orm</artifactId>

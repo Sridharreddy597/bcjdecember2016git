@@ -37,6 +37,7 @@
 <servlet-name>PaymentServlet</servlet-name>  
 <url-pattern>/PaymentServlet</url-pattern>  
 </servlet-mapping>  
+<<<<<<< HEAD
  <security-constraint>
 <web-resource-collection>
 <web-resource-name>resource1</web-resource-name>
@@ -52,6 +53,8 @@ customer</role-name></auth-constraint>
 <auth-method>
 Basic</auth-method></login-config>
 
+=======
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 
 
 </web-app>

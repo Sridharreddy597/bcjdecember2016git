@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com\bcj\hibernate\Vechicle.class
 META-INF\MANIFEST.MF
 com\bcj\hibernate\TwoWheeler.class
@@ -5,4 +6,10 @@ META-INF\maven\com.bcj\hibernate\pom.properties
 com\bcj\hibernate\FourWheeler.class
 com\bcj\hibernate\HibernateDemo.class
 META-INF\maven\com.bcj\hibernate\pom.xml
+=======
+com\bcj\hibernate\FourWheeler.class
+com\bcj\hibernate\Vechicle.class
+com\bcj\hibernate\HibernateDemo.class
+com\bcj\hibernate\TwoWheeler.class
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 com\bcj\hibernate\UserDetails.class

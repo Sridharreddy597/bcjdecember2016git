@@ -25,6 +25,10 @@ import com.bcj.restspringboot.service.CustomerServiceImpl;
  */
 
 @RestController
+<<<<<<< HEAD
+=======
+@RequestMapping("/employee")
+>>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
 public class CustomerController {
 
 	final static Logger logger = Logger.getLogger(CustomerController.class);
