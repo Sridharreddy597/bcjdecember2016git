@@ -1,5 +1,0 @@
-com\bcj\atenainsurance\model\Member.class
-com\bcj\atenainsurance\service\MemberService.class
-com\bcj\atenainsurance\service\MemberServiceImpl.class
-com\bcj\atenainsurance\dao\MemberDao.class
-com\bcj\atenainsurance\model\Address.class

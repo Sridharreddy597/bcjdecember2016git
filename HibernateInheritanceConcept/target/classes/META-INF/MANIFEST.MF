@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: sridhar
-<<<<<<< HEAD
-Build-Jdk: 1.8.0_141
-=======
-Build-Jdk: 1.8.0_131
->>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
-Created-By: Maven Integration for Eclipse
-
