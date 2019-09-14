@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<list key="0/org.eclipse.jst.ws.wsImpl.java">
-		<item value="com.bcj.soapservice.service.CustomerServiceImpl"/>
-		<item value="com.bcj.soap.service.CustomerImpl"/>
-		<item value="web.xml"/>
-	</list>
-</section>

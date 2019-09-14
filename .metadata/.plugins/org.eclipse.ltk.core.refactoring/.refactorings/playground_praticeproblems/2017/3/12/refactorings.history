@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;playground_praticeproblems/src/praticeproblems/cc.java&apos; to &apos;ExtendingExample.java&apos;" description="Rename resource &apos;cc.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/praticeproblems/cc.java" name="ExtendingExample.java" stamp="1490048768147" updateReferences="true"/>
-</session>

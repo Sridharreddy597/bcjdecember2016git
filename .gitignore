@@ -5,7 +5,7 @@
 */.project
 .svn
 */.svn
-<<<<<<< HEAD
+
 RemoteSystemsTempFiles
 .metadata/*
 .recommenders/*
@@ -14,6 +14,6 @@ RemoteSystemsTempFiles
 */bin
 */.tern-project
 */target
-=======
+
 RemoteSystemsTempFiles
->>>>>>> 96b5c57366ad685b6446a1c0f5a3f59608861971
+

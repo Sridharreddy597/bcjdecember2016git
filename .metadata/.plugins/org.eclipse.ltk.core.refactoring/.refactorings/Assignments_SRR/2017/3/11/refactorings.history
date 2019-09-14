@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Assignments_SRR/src/com/bcj/corejava/collections/comparator/cop.java&apos; to &apos;Sorting.java&apos;" description="Rename resource &apos;cop.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/bcj/corejava/collections/comparator/cop.java" name="Sorting.java" stamp="1489420045539" updateReferences="true"/>
-</session>

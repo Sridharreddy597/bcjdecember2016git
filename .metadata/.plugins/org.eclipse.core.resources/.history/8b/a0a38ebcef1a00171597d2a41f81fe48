@@ -1,8 +1,0 @@
-package com.bcj.spring;
-
-public class Triangle {
-	
-public void draw(){
-	System.out.println("Triangle draw");
-}
-}

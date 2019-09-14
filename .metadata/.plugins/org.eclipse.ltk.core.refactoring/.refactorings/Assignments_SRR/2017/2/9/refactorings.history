@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Assignments_SRR/src/com/bcj/corejava/oops/interfaces/lab2.txt&apos; to &apos;lab1.txt&apos;" description="Rename resource &apos;lab2.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/bcj/corejava/oops/interfaces/lab2.txt" name="lab1.txt" stamp="1488084635089" updateReferences="true"/>
-</session>
