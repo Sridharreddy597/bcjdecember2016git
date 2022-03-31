@@ -8,7 +8,7 @@
 	<name>WebShop</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<SpringVersion>5.2.7.RELEASE</SpringVersion>
+		<SpringVersion>5.3.18</SpringVersion>
 		<jackson.version>1.9.10</jackson.version>
 		<activemq.version>5.12.0</activemq.version>
 	</properties>
