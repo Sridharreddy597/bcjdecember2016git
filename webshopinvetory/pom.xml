@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<SpringVersion>4.3.7.RELEASE</SpringVersion>
+		<SpringVersion>5.3.18</SpringVersion>
 		<activemq.version>5.12.0</activemq.version>
 	</properties>
 
